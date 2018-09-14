@@ -1,0 +1,6360 @@
+{
+  "user": {
+    "_id": "5620f9124b02db7e9de00ec3",
+    "email": "mail@ratankumar.org",
+    "broker": {
+      "name": "kite",
+      "userId": "DR4300",
+      "email": "mail@ratankumar.org",
+      "userName": "Ratan Kumar"
+    },
+    "access": {
+      "verified": true,
+      "screener": 1
+    },
+    "meta": {
+      "optOuts": {
+        "email": []
+      },
+      "profile": {
+        "email": "mail@ratankumar.org",
+        "name": "Ratan Kumar"
+      },
+      "dateCreated": "2018-02-20T06:35:11.335Z",
+      "updatedProfile": false
+    },
+    "investedSmallcases": [
+      {
+        "_id": "5718bc60e2c41ddb74734719",
+        "name": "Cash Cows at Bargain",
+        "source": "PROFESSIONAL",
+        "scid": "SCMO_0001",
+        "version": 1,
+        "shortDescription": "Low-debt, cash-rich companies at attractive valuations",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 54.641698481226065,
+          "pe": 0,
+          "lastCloseIndex": 54.641698481226065,
+          "divReturns": 45.3,
+          "lastWeekCloseIndex": 53.41762675617292,
+          "lastToLastWeekCloseIndex": 54.54257025462541,
+          "lastMonthCloseIndex": 54.54257025462541
+        },
+        "returns": {
+          "unrealizedReturns": 0,
+          "divReturns": 73.5,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 32432.74,
+          "networth": 17648.3
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Energy",
+              "_id": "5718bc60e2c41ddb7473471f",
+              "constituents": [
+                "HPCL",
+                "IOC"
+              ]
+            },
+            {
+              "label": "Industrials",
+              "_id": "5718bc60e2c41ddb7473471e",
+              "constituents": [
+                "SCI",
+                "JYPE",
+                "KIRO",
+                "DRDG",
+                "BEML"
+              ]
+            },
+            {
+              "label": "Consumer Discretionary",
+              "_id": "5718bc60e2c41ddb7473471d",
+              "constituents": [
+                "VART",
+                "HTML"
+              ]
+            },
+            {
+              "label": "Materials",
+              "_id": "5718bc60e2c41ddb7473471c",
+              "constituents": [
+                "WGSR",
+                "CHMB",
+                "HZNC"
+              ]
+            },
+            {
+              "label": "Consumer Staples",
+              "_id": "5718bc60e2c41ddb7473471b",
+              "constituents": [
+                "BBRM"
+              ]
+            },
+            {
+              "label": "Utilities",
+              "_id": "5718bc60e2c41ddb7473471a",
+              "constituents": [
+                "JSWE"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "HPCL",
+              "shares": 3,
+              "averagePrice": 42.42,
+              "_id": "5718bc86367bb20a44728e12"
+            },
+            {
+              "sid": "IOC",
+              "shares": 2,
+              "averagePrice": 97.71,
+              "_id": "5718bc86367bb20a44728e13"
+            },
+            {
+              "sid": "SCI",
+              "shares": 13,
+              "averagePrice": 138.373846153846,
+              "_id": "5718bc86367bb20a44728e14"
+            },
+            {
+              "sid": "VART",
+              "shares": 1,
+              "averagePrice": 196.42,
+              "_id": "5718bc86367bb20a44728e15"
+            },
+            {
+              "sid": "JYPE",
+              "shares": 116,
+              "averagePrice": 178.945862068966,
+              "_id": "5718bc86367bb20a44728e16"
+            },
+            {
+              "sid": "HTML",
+              "shares": 11,
+              "averagePrice": 84.9772727272727,
+              "_id": "5718bc86367bb20a44728e17"
+            },
+            {
+              "sid": "WGSR",
+              "shares": 9,
+              "averagePrice": 117.426666666667,
+              "_id": "5718bc86367bb20a44728e18"
+            },
+            {
+              "sid": "BBRM",
+              "shares": 2,
+              "averagePrice": 168.65,
+              "_id": "5718bc86367bb20a44728e19"
+            },
+            {
+              "sid": "KIRO",
+              "shares": 4,
+              "averagePrice": 142.95,
+              "_id": "5718bc86367bb20a44728e1a"
+            },
+            {
+              "sid": "CHMB",
+              "shares": 16,
+              "averagePrice": 197.685,
+              "_id": "5718bc86367bb20a44728e1b"
+            },
+            {
+              "sid": "DRDG",
+              "shares": 2,
+              "averagePrice": 198.16,
+              "_id": "5718bc86367bb20a44728e1c"
+            },
+            {
+              "sid": "HZNC",
+              "shares": 5,
+              "averagePrice": 139.318,
+              "_id": "5718bc86367bb20a44728e1d"
+            },
+            {
+              "sid": "BEML",
+              "shares": 1,
+              "averagePrice": 100.68,
+              "_id": "5718bc86367bb20a44728e1e"
+            },
+            {
+              "sid": "JSWE",
+              "shares": 13,
+              "averagePrice": 161.524615384615,
+              "_id": "5718bc86367bb20a44728e1f"
+            }
+          ]
+        },
+        "date": "2016-04-21T11:41:20.048Z"
+      },
+      {
+        "_id": "5718bf81e2c41ddb74734720",
+        "name": "smallcase Pharma Tracker",
+        "source": "PROFESSIONAL",
+        "scid": "SCTR_0009",
+        "version": 1,
+        "shortDescription": "Companies tracking the performance of Pharma Sector",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 486.3523584726383,
+          "pe": 0,
+          "lastCloseIndex": 486.3523584726383,
+          "lastWeekCloseIndex": 459.659087960151,
+          "divReturns": 8,
+          "lastToLastWeekCloseIndex": 459.7513071736049,
+          "lastMonthCloseIndex": 459.7513071736049
+        },
+        "returns": {
+          "unrealizedReturns": 0,
+          "divReturns": 182.91913419495398,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 2385.62,
+          "networth": 11419.6
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Pharmaceuticals",
+              "_id": "5718bf81e2c41ddb74734721",
+              "constituents": [
+                "ARBN",
+                "CADI",
+                "CIPL",
+                "DIVI",
+                "GLEN",
+                "LUPN",
+                "PIRA",
+                "SUN"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "ARBN",
+              "shares": 2,
+              "averagePrice": 175.39,
+              "_id": "5718bfa7367bb20a44728e22"
+            },
+            {
+              "sid": "CADI",
+              "shares": 5,
+              "averagePrice": 121.21,
+              "_id": "5718bfa7367bb20a44728e23"
+            },
+            {
+              "sid": "CIPL",
+              "shares": 3,
+              "averagePrice": 197.51,
+              "_id": "5718bfa7367bb20a44728e24"
+            },
+            {
+              "sid": "DIVI",
+              "shares": 1,
+              "averagePrice": 104.85,
+              "_id": "5718bfa7367bb20a44728e25"
+            },
+            {
+              "sid": "GLEN",
+              "shares": 2,
+              "averagePrice": 96.48,
+              "_id": "5718bfa7367bb20a44728e26"
+            },
+            {
+              "sid": "LUPN",
+              "shares": 1,
+              "averagePrice": 157.86,
+              "_id": "5718bfa7367bb20a44728e27"
+            },
+            {
+              "sid": "PIRA",
+              "shares": 1,
+              "averagePrice": 128.91,
+              "_id": "5718bfa7367bb20a44728e28"
+            },
+            {
+              "sid": "SUN",
+              "shares": 2,
+              "averagePrice": 125.84,
+              "_id": "5718bfa7367bb20a44728e29"
+            }
+          ]
+        },
+        "date": "2016-04-21T11:54:41.349Z"
+      },
+      {
+        "_id": "5718c390e2c41ddb74734722",
+        "name": "smallcase Metal Tracker",
+        "source": "PROFESSIONAL",
+        "scid": "SCTR_0008",
+        "version": 1,
+        "shortDescription": "Companies tracking the performance of Metal Sector",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 100.91301774657914,
+          "pe": 0,
+          "lastCloseIndex": 100.91301774657914,
+          "divReturns": 6.5,
+          "lastWeekCloseIndex": 100.40036967121438,
+          "lastToLastWeekCloseIndex": 98.50825728552661,
+          "lastMonthCloseIndex": 98.50825728552661
+        },
+        "returns": {
+          "unrealizedReturns": 0,
+          "divReturns": 2009.3703398794707,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 29025.76,
+          "networth": 27281.399999999998
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Steel",
+              "_id": "5718c390e2c41ddb74734726",
+              "constituents": [
+                "BSSL",
+                "NMDC",
+                "JNSP",
+                "WGSR",
+                "TISC",
+                "JIND",
+                "SAIL",
+                "JSTL"
+              ]
+            },
+            {
+              "label": "Diversified Metals",
+              "_id": "5718c390e2c41ddb74734725",
+              "constituents": [
+                "VDAN"
+              ]
+            },
+            {
+              "label": "Coal",
+              "_id": "5718c390e2c41ddb74734724",
+              "constituents": [
+                "COAL"
+              ]
+            },
+            {
+              "label": "Aluminum",
+              "_id": "5718c390e2c41ddb74734723",
+              "constituents": [
+                "NALU",
+                "HALC"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "BSSL",
+              "shares": 36,
+              "averagePrice": 134.5875,
+              "_id": "5718c3b7367bb20a44728e2c"
+            },
+            {
+              "sid": "NMDC",
+              "shares": 13,
+              "averagePrice": 138.702307692308,
+              "_id": "5718c3b7367bb20a44728e2d"
+            },
+            {
+              "sid": "JNSP",
+              "shares": 18,
+              "averagePrice": 179.863333333333,
+              "_id": "5718c3b7367bb20a44728e2e"
+            },
+            {
+              "sid": "VDAN",
+              "shares": 13,
+              "averagePrice": 79.5738461538462,
+              "_id": "5718c3b7367bb20a44728e2f"
+            },
+            {
+              "sid": "WGSR",
+              "shares": 13,
+              "averagePrice": 130.503846153846,
+              "_id": "5718c3b7367bb20a44728e30"
+            },
+            {
+              "sid": "TISC",
+              "shares": 4,
+              "averagePrice": 101.5,
+              "_id": "5718c3b7367bb20a44728e31"
+            },
+            {
+              "sid": "COAL",
+              "shares": 5,
+              "averagePrice": 187.61,
+              "_id": "5718c3b7367bb20a44728e32"
+            },
+            {
+              "sid": "JIND",
+              "shares": 30,
+              "averagePrice": 106.666,
+              "_id": "5718c3b7367bb20a44728e33"
+            },
+            {
+              "sid": "SAIL",
+              "shares": 29,
+              "averagePrice": 118.073103448276,
+              "_id": "5718c3b7367bb20a44728e34"
+            },
+            {
+              "sid": "NALU",
+              "shares": 31,
+              "averagePrice": 191.246129032258,
+              "_id": "5718c3b7367bb20a44728e35"
+            },
+            {
+              "sid": "HALC",
+              "shares": 13,
+              "averagePrice": 180.132307692308,
+              "_id": "5718c3b7367bb20a44728e36"
+            },
+            {
+              "sid": "JSTL",
+              "shares": 1,
+              "averagePrice": 170.43,
+              "_id": "5718c3b7367bb20a44728e37"
+            }
+          ]
+        },
+        "date": "2016-04-21T12:12:00.872Z"
+      },
+      {
+        "_id": "5718c5b5e2c41ddb74734732",
+        "name": "The Great Indian Middle Class - Low-Cost Version",
+        "source": "PROFESSIONAL",
+        "scid": "SCNM_0011",
+        "version": 1,
+        "shortDescription": "Consumer companies expected to benefit from India's growing middle class",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 737.4046179764144,
+          "pe": 0,
+          "lastCloseIndex": 737.4046179764144,
+          "lastWeekCloseIndex": 724.682059921382,
+          "lastToLastWeekCloseIndex": 732.8461004855812,
+          "divReturns": 4.3,
+          "lastMonthCloseIndex": 732.8461004855812
+        },
+        "returns": {
+          "unrealizedReturns": 0,
+          "divReturns": 413.54999999999995,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 3027.3,
+          "networth": 21909.899999999998
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Airlines",
+              "_id": "5718c5b5e2c41ddb74734739",
+              "constituents": [
+                "INGL"
+              ]
+            },
+            {
+              "label": "Accessories & Luxury Goods",
+              "_id": "5718c5b5e2c41ddb74734738",
+              "constituents": [
+                "TITN"
+              ]
+            },
+            {
+              "label": "Automobile Manufacturers",
+              "_id": "5718c5b5e2c41ddb74734737",
+              "constituents": [
+                "MAHM"
+              ]
+            },
+            {
+              "label": "Department Stores",
+              "_id": "5718c5b5e2c41ddb74734736",
+              "constituents": [
+                "VMAR"
+              ]
+            },
+            {
+              "label": "Household Appliances",
+              "_id": "5718c5b5e2c41ddb74734735",
+              "constituents": [
+                "BJEL"
+              ]
+            },
+            {
+              "label": "Movies & Entertainment",
+              "_id": "5718c5b5e2c41ddb74734734",
+              "constituents": [
+                "PVRL"
+              ]
+            },
+            {
+              "label": "Personal Products",
+              "_id": "5718c5b5e2c41ddb74734733",
+              "constituents": [
+                "COLG",
+                "BACO"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "INGL",
+              "shares": 1,
+              "averagePrice": 178.8,
+              "_id": "5718c5db367bb20a44728e55"
+            },
+            {
+              "sid": "TITN",
+              "shares": 3,
+              "averagePrice": 158.92,
+              "_id": "5718c5db367bb20a44728e56"
+            },
+            {
+              "sid": "MAHM",
+              "shares": 1,
+              "averagePrice": 94.89,
+              "_id": "5718c5db367bb20a44728e57"
+            },
+            {
+              "sid": "VMAR",
+              "shares": 3,
+              "averagePrice": 189.71,
+              "_id": "5718c5db367bb20a44728e58"
+            },
+            {
+              "sid": "BJEL",
+              "shares": 6,
+              "averagePrice": 120.576666666667,
+              "_id": "5718c5db367bb20a44728e59"
+            },
+            {
+              "sid": "PVRL",
+              "shares": 2,
+              "averagePrice": 177.88,
+              "_id": "5718c5db367bb20a44728e5a"
+            },
+            {
+              "sid": "COLG",
+              "shares": 2,
+              "averagePrice": 145.74,
+              "_id": "5718c5db367bb20a44728e5b"
+            },
+            {
+              "sid": "BACO",
+              "shares": 3,
+              "averagePrice": 112.34,
+              "_id": "5718c5db367bb20a44728e5c"
+            }
+          ]
+        },
+        "date": "2016-04-21T12:21:09.268Z"
+      },
+      {
+        "_id": "572c46e6cced1bef550acc14",
+        "name": "Magic Formula",
+        "source": "PROFESSIONAL",
+        "scid": "SCMO_0006",
+        "status": "PLACED",
+        "version": 1,
+        "shortDescription": "High-quality companies trading at attractive prices, screened using Greenblatt's Magic Formula",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 153.28437997653168,
+          "pe": 0,
+          "divReturns": 86.7,
+          "lastCloseIndex": 153.28437997653168,
+          "lastWeekCloseIndex": 151.31046486044758,
+          "lastToLastWeekCloseIndex": 158.13748061771852,
+          "lastMonthCloseIndex": 158.13748061771852
+        },
+        "returns": {
+          "divReturns": 189.2,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 15271.68,
+          "networth": 23219.899999999994
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Energy",
+              "_id": "572c46e6cced1bef550acc1b",
+              "constituents": [
+                "CHPC"
+              ]
+            },
+            {
+              "label": "Materials",
+              "_id": "572c46e6cced1bef550acc1a",
+              "constituents": [
+                "NMDC",
+                "SRIK",
+                "SKIP"
+              ]
+            },
+            {
+              "label": "Industrials",
+              "_id": "572c46e6cced1bef550acc19",
+              "constituents": [
+                "KEIN",
+                "BSLI"
+              ]
+            },
+            {
+              "label": "Information Technology",
+              "_id": "572c46e6cced1bef550acc18",
+              "constituents": [
+                "TEML",
+                "SOFT",
+                "LYCO"
+              ]
+            },
+            {
+              "label": "Utilities",
+              "_id": "572c46e6cced1bef550acc17",
+              "constituents": [
+                "GGAS"
+              ]
+            },
+            {
+              "label": "Consumer Discretionary",
+              "_id": "572c46e6cced1bef550acc16",
+              "constituents": [
+                "CEAT",
+                "REXP",
+                "KITE",
+                "MIRZ"
+              ]
+            },
+            {
+              "label": "Consumer Staples",
+              "_id": "572c46e6cced1bef550acc15",
+              "constituents": [
+                "AVNT"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "CHPC",
+              "shares": 5,
+              "averagePrice": 205.786,
+              "_id": "572c46edc98e225d7bd6b9da"
+            },
+            {
+              "sid": "NMDC",
+              "shares": 11,
+              "averagePrice": 94.1136363636364,
+              "_id": "572c46edc98e225d7bd6b9db"
+            },
+            {
+              "sid": "KEIN",
+              "shares": 10,
+              "averagePrice": 110.161,
+              "_id": "572c46edc98e225d7bd6b9dc"
+            },
+            {
+              "sid": "TEML",
+              "shares": 2,
+              "averagePrice": 473.27,
+              "_id": "572c46edc98e225d7bd6b9dd"
+            },
+            {
+              "sid": "SOFT",
+              "shares": 7,
+              "averagePrice": 147.107142857143,
+              "_id": "572c46edc98e225d7bd6b9de"
+            },
+            {
+              "sid": "GGAS",
+              "shares": 2,
+              "averagePrice": 531.76,
+              "_id": "572c46edc98e225d7bd6b9df"
+            },
+            {
+              "sid": "SRIK",
+              "shares": 4,
+              "averagePrice": 265.8525,
+              "_id": "572c46edc98e225d7bd6b9e0"
+            },
+            {
+              "sid": "LYCO",
+              "shares": 59,
+              "averagePrice": 16.9796610169492,
+              "_id": "572c46edc98e225d7bd6b9e1"
+            },
+            {
+              "sid": "BSLI",
+              "shares": 82,
+              "averagePrice": 11.9960975609756,
+              "_id": "572c46edc98e225d7bd6b9e2"
+            },
+            {
+              "sid": "CEAT",
+              "shares": 1,
+              "averagePrice": 1052.37,
+              "_id": "572c46edc98e225d7bd6b9e3"
+            },
+            {
+              "sid": "AVNT",
+              "shares": 2,
+              "averagePrice": 456.03,
+              "_id": "572c46edc98e225d7bd6b9e4"
+            },
+            {
+              "sid": "REXP",
+              "shares": 2,
+              "averagePrice": 569.39,
+              "_id": "572c46edc98e225d7bd6b9e5"
+            },
+            {
+              "sid": "KITE",
+              "shares": 2,
+              "averagePrice": 449.55,
+              "_id": "572c46edc98e225d7bd6b9e6"
+            },
+            {
+              "sid": "MIRZ",
+              "shares": 10,
+              "averagePrice": 102.886,
+              "_id": "572c46edc98e225d7bd6b9e7"
+            },
+            {
+              "sid": "SKIP",
+              "shares": 7,
+              "averagePrice": 140.86,
+              "_id": "572c46edc98e225d7bd6b9e8"
+            }
+          ]
+        },
+        "date": "2016-05-06T07:25:26.662Z"
+      },
+      {
+        "_id": "5763a1e75b599a7c15b017d9",
+        "name": "It's Showtime",
+        "source": "PROFESSIONAL",
+        "scid": "SCNM_0003",
+        "status": "VALID",
+        "version": 1,
+        "shortDescription": "Stocks from India's media industry, the fastest growing in the world",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 117.6797666986653,
+          "lastCloseIndex": 117.6797666986653,
+          "divReturns": 20.85,
+          "pe": 0,
+          "lastWeekCloseIndex": 115.05934788288647,
+          "lastToLastWeekCloseIndex": 115.30352244550102,
+          "lastMonthCloseIndex": 115.30352244550102
+        },
+        "returns": {
+          "divReturns": 189.9,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 13740.17,
+          "networth": 15979.5
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Radio & Print",
+              "constituents": [
+                "ENIL",
+                "HINS",
+                "JAGP",
+                "HTML"
+              ]
+            },
+            {
+              "label": "Television",
+              "constituents": [
+                "ZEE",
+                "TVTO",
+                "TVEB",
+                "SUTV"
+              ]
+            },
+            {
+              "label": "Cable & D2H",
+              "constituents": [
+                "SITI",
+                "DSTV"
+              ]
+            },
+            {
+              "label": "Films",
+              "constituents": [
+                "UFOM",
+                "SHEM",
+                "EROS",
+                "BLTE"
+              ]
+            },
+            {
+              "label": "Multiplex",
+              "constituents": [
+                "INOL",
+                "PVRL"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "ENIL",
+              "shares": 1,
+              "averagePrice": 742.06
+            },
+            {
+              "sid": "HINS",
+              "shares": 3,
+              "averagePrice": 269
+            },
+            {
+              "sid": "JAGP",
+              "shares": 5,
+              "averagePrice": 172.01
+            },
+            {
+              "sid": "HTML",
+              "shares": 10,
+              "averagePrice": 81.998
+            },
+            {
+              "sid": "ZEE",
+              "shares": 2,
+              "averagePrice": 453.03
+            },
+            {
+              "sid": "TVTO",
+              "shares": 3,
+              "averagePrice": 310.02
+            },
+            {
+              "sid": "TVEB",
+              "shares": 21,
+              "averagePrice": 40
+            },
+            {
+              "sid": "SUTV",
+              "shares": 2,
+              "averagePrice": 381.97
+            },
+            {
+              "sid": "SITI",
+              "shares": 22,
+              "averagePrice": 37
+            },
+            {
+              "sid": "DSTV",
+              "shares": 10,
+              "averagePrice": 85.995
+            },
+            {
+              "sid": "UFOM",
+              "shares": 2,
+              "averagePrice": 529.98
+            },
+            {
+              "sid": "SHEM",
+              "shares": 3,
+              "averagePrice": 316.01
+            },
+            {
+              "sid": "EROS",
+              "shares": 5,
+              "averagePrice": 181.002
+            },
+            {
+              "sid": "BLTE",
+              "shares": 8,
+              "averagePrice": 108
+            },
+            {
+              "sid": "INOL",
+              "shares": 4,
+              "averagePrice": 195.01
+            },
+            {
+              "sid": "PVRL",
+              "shares": 1,
+              "averagePrice": 840.03
+            }
+          ]
+        },
+        "date": "2016-06-17T07:08:23.943Z"
+      },
+      {
+        "_id": "5763a2da5b599a7c15b017da",
+        "name": "smallcase Media Tracker",
+        "source": "PROFESSIONAL",
+        "scid": "SCTR_0007",
+        "status": "VALID",
+        "version": 1,
+        "shortDescription": "Companies tracking the performance of Media Sector",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 126.19399618179645,
+          "lastCloseIndex": 126.19399618179645,
+          "divReturns": 7.25,
+          "pe": 0,
+          "lastWeekCloseIndex": 122.37363910546793,
+          "lastToLastWeekCloseIndex": 126.48795263101789,
+          "lastMonthCloseIndex": 126.48795263101789
+        },
+        "returns": {
+          "divReturns": 104.5,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 9287.09,
+          "networth": 11615.25
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Movies & Entertainment",
+              "constituents": [
+                "EROS",
+                "INOL",
+                "PVRL",
+                "NEFI"
+              ]
+            },
+            {
+              "label": "Broadcasting",
+              "constituents": [
+                "TVTO",
+                "ZEE",
+                "SUTV",
+                "TVEB"
+              ]
+            },
+            {
+              "label": "Cable & Satellite",
+              "constituents": [
+                "DENN",
+                "SITI"
+              ]
+            },
+            {
+              "label": "Publishing",
+              "constituents": [
+                "JAGP"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "EROS",
+              "shares": 5,
+              "averagePrice": 181
+            },
+            {
+              "sid": "INOL",
+              "shares": 4,
+              "averagePrice": 195.01
+            },
+            {
+              "sid": "TVTO",
+              "shares": 3,
+              "averagePrice": 309.97
+            },
+            {
+              "sid": "PVRL",
+              "shares": 1,
+              "averagePrice": 840.07
+            },
+            {
+              "sid": "DENN",
+              "shares": 9,
+              "averagePrice": 91.9977777777778
+            },
+            {
+              "sid": "ZEE",
+              "shares": 2,
+              "averagePrice": 453.02
+            },
+            {
+              "sid": "SUTV",
+              "shares": 2,
+              "averagePrice": 382
+            },
+            {
+              "sid": "TVEB",
+              "shares": 21,
+              "averagePrice": 40
+            },
+            {
+              "sid": "JAGP",
+              "shares": 5,
+              "averagePrice": 172.01
+            },
+            {
+              "sid": "SITI",
+              "shares": 22,
+              "averagePrice": 37
+            },
+            {
+              "sid": "NEFI",
+              "shares": 20,
+              "averagePrice": 41
+            }
+          ]
+        },
+        "date": "2016-06-17T07:12:26.324Z"
+      },
+      {
+        "_id": "5763a4215b599a7c15b017db",
+        "name": "Buy the Dip",
+        "source": "PROFESSIONAL",
+        "scid": "SCMO_0009",
+        "status": "VALID",
+        "version": 1,
+        "shortDescription": "Long term market outperformers with a recent price decline",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 88.92889890151264,
+          "lastCloseIndex": 88.92889890151264,
+          "divReturns": 31.8,
+          "pe": 0,
+          "lastWeekCloseIndex": 88.80198687158808,
+          "lastToLastWeekCloseIndex": 93.86389443833836,
+          "lastMonthCloseIndex": 93.86389443833836
+        },
+        "returns": {
+          "divReturns": 353.20000000000005,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 8234.05,
+          "networth": 6969.250000000001
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Consumer Staples",
+              "constituents": [
+                "GMBR",
+                "DLMI",
+                "TREI",
+                "BACH",
+                "KDAI"
+              ]
+            },
+            {
+              "label": "Materials",
+              "constituents": [
+                "CSFL",
+                "IOLC",
+                "BODA"
+              ]
+            },
+            {
+              "label": "Industrials",
+              "constituents": [
+                "GAPR"
+              ]
+            },
+            {
+              "label": "Information Technology",
+              "constituents": [
+                "XCHA"
+              ]
+            },
+            {
+              "label": "Consumer Discretionary",
+              "constituents": [
+                "HMSD",
+                "REXP"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "GMBR",
+              "shares": 1,
+              "averagePrice": 709.99
+            },
+            {
+              "sid": "XCHA",
+              "shares": 9,
+              "averagePrice": 76
+            },
+            {
+              "sid": "DLMI",
+              "shares": 8,
+              "averagePrice": 92
+            },
+            {
+              "sid": "CSFL",
+              "shares": 2,
+              "averagePrice": 365
+            },
+            {
+              "sid": "GAPR",
+              "shares": 1,
+              "averagePrice": 562.02
+            },
+            {
+              "sid": "HMSD",
+              "shares": 3,
+              "averagePrice": 223.99
+            },
+            {
+              "sid": "IOLC",
+              "shares": 6,
+              "averagePrice": 123.006666666667
+            },
+            {
+              "sid": "TREI",
+              "shares": 14,
+              "averagePrice": 49
+            },
+            {
+              "sid": "BACH",
+              "shares": 7,
+              "averagePrice": 107.004285714286
+            },
+            {
+              "sid": "KDAI",
+              "shares": 7,
+              "averagePrice": 105.007142857143
+            },
+            {
+              "sid": "BODA",
+              "shares": 8,
+              "averagePrice": 85
+            },
+            {
+              "sid": "REXP",
+              "shares": 1,
+              "averagePrice": 551.95
+            }
+          ]
+        },
+        "date": "2016-06-17T07:17:53.725Z"
+      },
+      {
+        "_id": "5768f94391b343b75539a0a9",
+        "name": "Transporting India",
+        "source": "PROFESSIONAL",
+        "scid": "SCNM_0001",
+        "status": "VALID",
+        "version": 1,
+        "shortDescription": "Logistics companies poised for rapid growth, fuelled by GDP revival, GST and e-commerce",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 93.6363831616872,
+          "lastCloseIndex": 93.6363831616872,
+          "divReturns": 16.5,
+          "pe": 0,
+          "lastWeekCloseIndex": 92.80731073591019,
+          "lastToLastWeekCloseIndex": 96.07384793732382,
+          "lastMonthCloseIndex": 96.07384793732382
+        },
+        "returns": {
+          "divReturns": 916.4,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 36782.07,
+          "networth": 33525
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Surface Logistics",
+              "constituents": [
+                "TCIL"
+              ]
+            },
+            {
+              "label": "Air & Surface Logistics",
+              "constituents": [
+                "BLDT",
+                "GATI"
+              ]
+            },
+            {
+              "label": "Warehousing",
+              "constituents": [
+                "SNOW"
+              ]
+            },
+            {
+              "label": "Rail Logistics",
+              "constituents": [
+                "CCRI"
+              ]
+            },
+            {
+              "label": "Marine Logistics",
+              "constituents": [
+                "APSE",
+                "GPPL"
+              ]
+            },
+            {
+              "label": "Container Freight",
+              "constituents": [
+                "GATE",
+                "ACLL"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "TCIL",
+              "shares": 14,
+              "averagePrice": 276.001428571429
+            },
+            {
+              "sid": "BLDT",
+              "shares": 1,
+              "averagePrice": 5493.34
+            },
+            {
+              "sid": "GATI",
+              "shares": 30,
+              "averagePrice": 129.998
+            },
+            {
+              "sid": "SNOW",
+              "shares": 69,
+              "averagePrice": 56
+            },
+            {
+              "sid": "CCRI",
+              "shares": 3,
+              "averagePrice": 1379.94
+            },
+            {
+              "sid": "APSE",
+              "shares": 20,
+              "averagePrice": 190.999
+            },
+            {
+              "sid": "GPPL",
+              "shares": 24,
+              "averagePrice": 160.995
+            },
+            {
+              "sid": "GATE",
+              "shares": 14,
+              "averagePrice": 282.999285714286
+            },
+            {
+              "sid": "ACLL",
+              "shares": 25,
+              "averagePrice": 155.004
+            }
+          ]
+        },
+        "date": "2016-06-21T08:22:27.323Z"
+      },
+      {
+        "_id": "576a858f81941ab3442052d5",
+        "name": "Rising Rural Demand",
+        "source": "PROFESSIONAL",
+        "scid": "SCNM_0012",
+        "status": "PLACED",
+        "version": 1,
+        "shortDescription": "Budget 2017 is expected to boost rural demand and benefit companies with high rural exposure",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 165.59520128926403,
+          "lastCloseIndex": 165.59520128926403,
+          "divReturns": 56.7,
+          "pe": 0,
+          "lastWeekCloseIndex": 162.80049759358485,
+          "lastToLastWeekCloseIndex": 161.698439786064,
+          "lastMonthCloseIndex": 161.698439786064
+        },
+        "returns": {
+          "divReturns": 674.5,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 20538.85,
+          "networth": 33336.850000000006
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Rural Credit",
+              "constituents": [
+                "MMFS",
+                "BHAF",
+                "SATR"
+              ]
+            },
+            {
+              "label": "Tobacco",
+              "constituents": [
+                "ITC"
+              ]
+            },
+            {
+              "label": "Personal and Household Products",
+              "constituents": [
+                "BACO",
+                "HLL",
+                "JYOI",
+                "ERDY"
+              ]
+            },
+            {
+              "label": "Seeds & Fertilizers",
+              "constituents": [
+                "KVRI",
+                "CORF",
+                "DHNP",
+                "CHMB"
+              ]
+            },
+            {
+              "label": "Telecom",
+              "constituents": [
+                "IDEA"
+              ]
+            },
+            {
+              "label": "Tractor",
+              "constituents": [
+                "ESCO",
+                "MAHM"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "MMFS",
+              "shares": 4,
+              "averagePrice": 323.99
+            },
+            {
+              "sid": "BHAF",
+              "shares": 2,
+              "averagePrice": 632.99
+            },
+            {
+              "sid": "SATR",
+              "shares": 4,
+              "averagePrice": 339
+            },
+            {
+              "sid": "ITC",
+              "shares": 4,
+              "averagePrice": 358.99
+            },
+            {
+              "sid": "BACO",
+              "shares": 3,
+              "averagePrice": 385.996666666667
+            },
+            {
+              "sid": "KVRI",
+              "shares": 3,
+              "averagePrice": 440.02
+            },
+            {
+              "sid": "CORF",
+              "shares": 6,
+              "averagePrice": 236.001666666667
+            },
+            {
+              "sid": "DHNP",
+              "shares": 2,
+              "averagePrice": 638.01
+            },
+            {
+              "sid": "CHMB",
+              "shares": 21,
+              "averagePrice": 65
+            },
+            {
+              "sid": "IDEA",
+              "shares": 12,
+              "averagePrice": 113.003333333333
+            },
+            {
+              "sid": "ESCO",
+              "shares": 8,
+              "averagePrice": 172.9975
+            },
+            {
+              "sid": "HLL",
+              "shares": 2,
+              "averagePrice": 861.01
+            },
+            {
+              "sid": "JYOI",
+              "shares": 5,
+              "averagePrice": 289
+            },
+            {
+              "sid": "ERDY",
+              "shares": 6,
+              "averagePrice": 234.993333333333
+            },
+            {
+              "sid": "MAHM",
+              "shares": 1,
+              "averagePrice": 1332.87
+            }
+          ]
+        },
+        "date": "2016-06-22T12:33:19.121Z"
+      },
+      {
+        "_id": "576afa80ef127b914e045ca6",
+        "name": "Incredible India",
+        "source": "PROFESSIONAL",
+        "scid": "SCNM_0009",
+        "status": "VALID",
+        "version": 1,
+        "shortDescription": "Companies standing to gain from India's rising popularity as a tourist destination",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 94.97122095445485,
+          "lastCloseIndex": 94.97122095445485,
+          "divReturns": 8,
+          "pe": 0,
+          "lastWeekCloseIndex": 94.83602840163317,
+          "lastToLastWeekCloseIndex": 97.54926016581325,
+          "lastMonthCloseIndex": 97.54926016581325
+        },
+        "returns": {
+          "divReturns": 162.13478751458527,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 9061.15,
+          "networth": 8443.35
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Airlines",
+              "constituents": [
+                "INGL"
+              ]
+            },
+            {
+              "label": "Healthcare Facilities",
+              "constituents": [
+                "APLH",
+                "NARY"
+              ]
+            },
+            {
+              "label": "Hotels & Resorts",
+              "constituents": [
+                "IHTL",
+                "MAHH",
+                "TBKH"
+              ]
+            },
+            {
+              "label": "Leisure Facilities",
+              "constituents": [
+                "WOHL"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "INGL",
+              "shares": 1,
+              "averagePrice": 1029.99
+            },
+            {
+              "sid": "APLH",
+              "shares": 1,
+              "averagePrice": 1348.01
+            },
+            {
+              "sid": "IHTL",
+              "shares": 12,
+              "averagePrice": 115.996666666667
+            },
+            {
+              "sid": "NARY",
+              "shares": 4,
+              "averagePrice": 305.02
+            },
+            {
+              "sid": "WOHL",
+              "shares": 4,
+              "averagePrice": 379.005
+            },
+            {
+              "sid": "TBKH",
+              "shares": 8,
+              "averagePrice": 172
+            },
+            {
+              "sid": "MAHH",
+              "shares": 3,
+              "averagePrice": 393.03
+            }
+          ]
+        },
+        "date": "2016-06-22T20:52:16.082Z"
+      },
+      {
+        "_id": "576afb1def127b914e045ca7",
+        "name": "Smart Cities",
+        "source": "PROFESSIONAL",
+        "scid": "SCNM_0013",
+        "status": "VALID",
+        "version": 1,
+        "shortDescription": "Play smart with companies expected to benefit from GOI's flagship smart city project",
+        "flags": {
+          "managed": true
+        },
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 147.32565651524322,
+          "lastCloseIndex": 147.32565651524322,
+          "divReturns": 70.75,
+          "pe": 0,
+          "lastWeekCloseIndex": 146.17713693463787,
+          "lastToLastWeekCloseIndex": 149.1184196084558,
+          "lastMonthCloseIndex": 149.1184196084558
+        },
+        "returns": {
+          "divReturns": 739.7,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 27970.79,
+          "networth": 40468.450000000004
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Tiles & Water Tanks",
+              "constituents": [
+                "KAJR",
+                "SNTX"
+              ]
+            },
+            {
+              "label": "Construction",
+              "constituents": [
+                "LART",
+                "NCCL",
+                "TRCE",
+                "JKLC",
+                "JKIP"
+              ]
+            },
+            {
+              "label": "Chemicals",
+              "constituents": [
+                "PIDI",
+                "FINX",
+                "ASPN"
+              ]
+            },
+            {
+              "label": "Power & Equipments",
+              "constituents": [
+                "KAPT",
+                "STTE",
+                "KEIN",
+                "VGUA",
+                "SKIP"
+              ]
+            },
+            {
+              "label": "Infrastructure Financing",
+              "constituents": [
+                "SREI"
+              ]
+            },
+            {
+              "label": "Steel",
+              "constituents": [
+                "RMT"
+              ]
+            },
+            {
+              "label": "Water Management",
+              "constituents": [
+                "VATE"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "KAJR",
+              "shares": 1,
+              "averagePrice": 1096.09
+            },
+            {
+              "sid": "SNTX",
+              "shares": 18,
+              "averagePrice": 80
+            },
+            {
+              "sid": "LART",
+              "shares": 1,
+              "averagePrice": 1474.14
+            },
+            {
+              "sid": "NCCL",
+              "shares": 20,
+              "averagePrice": 72
+            },
+            {
+              "sid": "TRCE",
+              "shares": 3,
+              "averagePrice": 497.97
+            },
+            {
+              "sid": "JKLC",
+              "shares": 4,
+              "averagePrice": 344.97
+            },
+            {
+              "sid": "PIDI",
+              "shares": 2,
+              "averagePrice": 693.96
+            },
+            {
+              "sid": "FINX",
+              "shares": 4,
+              "averagePrice": 384.9875
+            },
+            {
+              "sid": "JKIP",
+              "shares": 6,
+              "averagePrice": 234.003333333333
+            },
+            {
+              "sid": "KAPT",
+              "shares": 7,
+              "averagePrice": 226
+            },
+            {
+              "sid": "SREI",
+              "shares": 25,
+              "averagePrice": 57.0004
+            },
+            {
+              "sid": "STTE",
+              "shares": 17,
+              "averagePrice": 85.9994117647059
+            },
+            {
+              "sid": "KEIN",
+              "shares": 13,
+              "averagePrice": 109.004615384615
+            },
+            {
+              "sid": "ASPN",
+              "shares": 1,
+              "averagePrice": 998.07
+            },
+            {
+              "sid": "RMT",
+              "shares": 3,
+              "averagePrice": 503.96
+            },
+            {
+              "sid": "VGUA",
+              "shares": 1,
+              "averagePrice": 1228.09
+            },
+            {
+              "sid": "VATE",
+              "shares": 3,
+              "averagePrice": 555.99
+            },
+            {
+              "sid": "SKIP",
+              "shares": 11,
+              "averagePrice": 138.997272727273
+            },
+            {
+              "sid": "INFY",
+              "shares": 2,
+              "averagePrice": 1246.92
+            }
+          ]
+        },
+        "date": "2016-06-22T20:54:53.172Z"
+      },
+      {
+        "_id": "576b6808ef127b914e045ca9",
+        "name": "Dividend Aristocrats",
+        "source": "PROFESSIONAL",
+        "scid": "SCMO_0014",
+        "status": "VALID",
+        "version": 1,
+        "shortDescription": "Select group of companies that have been consistently increasing dividends for last 10 years",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 124.98901311522015,
+          "lastCloseIndex": 124.98901311522015,
+          "divReturns": 120.4613,
+          "pe": 0,
+          "lastWeekCloseIndex": 123.85411860590297,
+          "lastToLastWeekCloseIndex": 132.8250515613384,
+          "lastMonthCloseIndex": 132.8250515613384
+        },
+        "returns": {
+          "divReturns": 627.45,
+          "otherReturns": 0,
+          "realizedReturns": -318.2751818181818,
+          "realizedInvestment": 355.7751818181818,
+          "unrealizedInvestment": 18632.773818181817,
+          "networth": 23068.65
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Financials",
+              "constituents": [
+                "HDBK",
+                "HDFC",
+                "AXBK",
+                "LICH",
+                "GRUH"
+              ]
+            },
+            {
+              "label": "Materials",
+              "constituents": [
+                "ASPN",
+                "SUPI"
+              ]
+            },
+            {
+              "label": "Consumer Staples",
+              "constituents": [
+                "DABU",
+                "ITC"
+              ]
+            },
+            {
+              "label": "Utilities",
+              "constituents": [
+                "RLIN"
+              ]
+            },
+            {
+              "label": "Information Technology",
+              "constituents": [
+                "CYIE",
+                "ZENT"
+              ]
+            },
+            {
+              "label": "Industrials",
+              "constituents": [
+                "LART"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "HDBK",
+              "shares": 1,
+              "averagePrice": 948.7338181818182
+            },
+            {
+              "sid": "HDFC",
+              "shares": 1,
+              "averagePrice": 1255.1
+            },
+            {
+              "sid": "AXBK",
+              "shares": 3,
+              "averagePrice": 512.04
+            },
+            {
+              "sid": "ASPN",
+              "shares": 1,
+              "averagePrice": 998.04
+            },
+            {
+              "sid": "DABU",
+              "shares": 5,
+              "averagePrice": 295.008
+            },
+            {
+              "sid": "LICH",
+              "shares": 3,
+              "averagePrice": 460.99
+            },
+            {
+              "sid": "RLIN",
+              "shares": 3,
+              "averagePrice": 540.97
+            },
+            {
+              "sid": "SUPI",
+              "shares": 2,
+              "averagePrice": 914.09
+            },
+            {
+              "sid": "GRUH",
+              "shares": 5,
+              "averagePrice": 272.002
+            },
+            {
+              "sid": "CYIE",
+              "shares": 3,
+              "averagePrice": 464
+            },
+            {
+              "sid": "ZENT",
+              "shares": 2,
+              "averagePrice": 961.91
+            },
+            {
+              "sid": "ITC",
+              "shares": 4,
+              "averagePrice": 358.98
+            },
+            {
+              "sid": "LART",
+              "shares": 1,
+              "averagePrice": 1473.93
+            }
+          ]
+        },
+        "date": "2016-06-23T04:39:36.648Z"
+      },
+      {
+        "_id": "5770d9215c05dd3c0156ffa0",
+        "name": "Banking Privately",
+        "source": "PROFESSIONAL",
+        "scid": "SCNM_0008",
+        "status": "PLACED",
+        "version": 1,
+        "shortDescription": "Real value lies beyond PSU banks in more profitable NBFCs and private banks having low NPAs",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 183.47623768794614,
+          "lastCloseIndex": 183.47623768794614,
+          "divReturns": 76.4226,
+          "pe": 0,
+          "lastWeekCloseIndex": 182.3040370841437,
+          "lastToLastWeekCloseIndex": 194.51381408123277,
+          "lastMonthCloseIndex": 194.51381408123277
+        },
+        "returns": {
+          "divReturns": 90,
+          "otherReturns": 0,
+          "realizedReturns": -318.2843684210527,
+          "realizedInvestment": 355.7843684210527,
+          "unrealizedInvestment": 17060.176631578946,
+          "networth": 31826.649999999998
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Banks",
+              "constituents": [
+                "HDBK",
+                "CTBK"
+              ]
+            },
+            {
+              "label": "Diversified Financial Services",
+              "constituents": [
+                "BJFS",
+                "LTFH"
+              ]
+            },
+            {
+              "label": "Vehicle Finance",
+              "constituents": [
+                "SRTR"
+              ]
+            },
+            {
+              "label": "Housing Finance",
+              "constituents": [
+                "GRUH"
+              ]
+            },
+            {
+              "label": "Consumer Finance",
+              "constituents": [
+                "MUTT",
+                "CAPF"
+              ]
+            },
+            {
+              "label": "Microfinance ",
+              "constituents": [
+                "BHAF"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "HDBK",
+              "shares": 2,
+              "averagePrice": 948.7583157894738
+            },
+            {
+              "sid": "BJFS",
+              "shares": 1,
+              "averagePrice": 1834.89
+            },
+            {
+              "sid": "SRTR",
+              "shares": 2,
+              "averagePrice": 1193.99
+            },
+            {
+              "sid": "LTFH",
+              "shares": 25,
+              "averagePrice": 73.002
+            },
+            {
+              "sid": "GRUH",
+              "shares": 7,
+              "averagePrice": 272.001428571429
+            },
+            {
+              "sid": "MUTT",
+              "shares": 9,
+              "averagePrice": 213.998888888889
+            },
+            {
+              "sid": "BHAF",
+              "shares": 3,
+              "averagePrice": 632.96
+            },
+            {
+              "sid": "CTBK",
+              "shares": 17,
+              "averagePrice": 105.997058823529
+            },
+            {
+              "sid": "CAPF",
+              "shares": 3,
+              "averagePrice": 527.97
+            }
+          ]
+        },
+        "date": "2016-06-27T07:43:29.308Z"
+      },
+      {
+        "_id": "5770daad5c05dd3c0156ffa1",
+        "name": "Thrift Shopping",
+        "source": "PROFESSIONAL",
+        "scid": "SCMO_0005",
+        "status": "VALID",
+        "version": 1,
+        "shortDescription": "Robust companies with efficent capital utilization, screened using Richard Beddard's Nifty Thrifty",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 165.99665516062797,
+          "lastCloseIndex": 165.99665516062797,
+          "divReturns": 105.7,
+          "pe": 0,
+          "lastWeekCloseIndex": 161.87404931681266,
+          "lastToLastWeekCloseIndex": 167.5427954195008,
+          "lastMonthCloseIndex": 167.5427954195008
+        },
+        "returns": {
+          "divReturns": 1207.6,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 19163.85,
+          "networth": 30603.75
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Energy",
+              "constituents": [
+                "CHPC"
+              ]
+            },
+            {
+              "label": "Consumer Discretionary",
+              "constituents": [
+                "REXP",
+                "ICNT",
+                "JMNA"
+              ]
+            },
+            {
+              "label": "Materials",
+              "constituents": [
+                "SRIK",
+                "GHCH",
+                "SPTL"
+              ]
+            },
+            {
+              "label": "Information Technology",
+              "constituents": [
+                "LYCO"
+              ]
+            },
+            {
+              "label": "Industrials",
+              "constituents": [
+                "KEIN",
+                "APAR"
+              ]
+            },
+            {
+              "label": "Healthcare",
+              "constituents": [
+                "TORP",
+                "ALEM",
+                "BLIS"
+              ]
+            },
+            {
+              "label": "Consumer Staples",
+              "constituents": [
+                "BBRM"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "CHPC",
+              "shares": 7,
+              "averagePrice": 199.995714285714
+            },
+            {
+              "sid": "REXP",
+              "shares": 2,
+              "averagePrice": 552.02
+            },
+            {
+              "sid": "SRIK",
+              "shares": 6,
+              "averagePrice": 246.006666666667
+            },
+            {
+              "sid": "LYCO",
+              "shares": 73,
+              "averagePrice": 19
+            },
+            {
+              "sid": "KEIN",
+              "shares": 13,
+              "averagePrice": 108.994615384615
+            },
+            {
+              "sid": "APAR",
+              "shares": 3,
+              "averagePrice": 487.97
+            },
+            {
+              "sid": "ICNT",
+              "shares": 1,
+              "averagePrice": 933.93
+            },
+            {
+              "sid": "GHCH",
+              "shares": 9,
+              "averagePrice": 162.001111111111
+            },
+            {
+              "sid": "TORP",
+              "shares": 1,
+              "averagePrice": 1377.92
+            },
+            {
+              "sid": "ALEM",
+              "shares": 3,
+              "averagePrice": 540.02
+            },
+            {
+              "sid": "SPTL",
+              "shares": 8,
+              "averagePrice": 167.00125
+            },
+            {
+              "sid": "BLIS",
+              "shares": 14,
+              "averagePrice": 97.9978571428571
+            },
+            {
+              "sid": "BBRM",
+              "shares": 4,
+              "averagePrice": 376.02
+            },
+            {
+              "sid": "JMNA",
+              "shares": 9,
+              "averagePrice": 145.997777777778
+            }
+          ]
+        },
+        "date": "2016-06-27T07:50:05.765Z"
+      },
+      {
+        "_id": "5770dc0c5c05dd3c0156ffa2",
+        "name": "Commodity Glut",
+        "source": "PROFESSIONAL",
+        "scid": "SCNM_0006",
+        "status": "VALID",
+        "version": 1,
+        "shortDescription": "Falling commodity prices are expanding profit margins of these companies",
+        "flags": {
+          "active": false
+        },
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 158.6681289855961,
+          "lastCloseIndex": 158.6681289855961,
+          "divReturns": 88.9,
+          "pe": 0,
+          "lastWeekCloseIndex": 157.30300034669116,
+          "lastToLastWeekCloseIndex": 163.4702909372458,
+          "lastMonthCloseIndex": 163.4702909372458
+        },
+        "returns": {
+          "divReturns": 917.5500000000001,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 19412.09,
+          "networth": 29883.250000000004
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Tyre",
+              "constituents": [
+                "APLO",
+                "JKIN"
+              ]
+            },
+            {
+              "label": "Textile",
+              "constituents": [
+                "RYMD",
+                "MAND"
+              ]
+            },
+            {
+              "label": "FMCG",
+              "constituents": [
+                "MRCO",
+                "JYOI"
+              ]
+            },
+            {
+              "label": "Consumer Electronics",
+              "constituents": [
+                "VGUA"
+              ]
+            },
+            {
+              "label": "Chemicals",
+              "constituents": [
+                "ASPN",
+                "PIDI",
+                "GOLU"
+              ]
+            },
+            {
+              "label": "Cable and Battery",
+              "constituents": [
+                "AMAR",
+                "STTE",
+                "KEIN"
+              ]
+            },
+            {
+              "label": "Auto & Ancilliary",
+              "constituents": [
+                "ATUL",
+                "SUPE",
+                "JMNA"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "APLO",
+              "shares": 8,
+              "averagePrice": 155.9975
+            },
+            {
+              "sid": "JKIN",
+              "shares": 15,
+              "averagePrice": 83
+            },
+            {
+              "sid": "RYMD",
+              "shares": 3,
+              "averagePrice": 447.01
+            },
+            {
+              "sid": "MAND",
+              "shares": 4,
+              "averagePrice": 315.02
+            },
+            {
+              "sid": "MRCO",
+              "shares": 5,
+              "averagePrice": 256.992
+            },
+            {
+              "sid": "JYOI",
+              "shares": 4,
+              "averagePrice": 289
+            },
+            {
+              "sid": "VGUA",
+              "shares": 1,
+              "averagePrice": 1227.93
+            },
+            {
+              "sid": "ASPN",
+              "shares": 1,
+              "averagePrice": 998.07
+            },
+            {
+              "sid": "PIDI",
+              "shares": 2,
+              "averagePrice": 694.02
+            },
+            {
+              "sid": "GOLU",
+              "shares": 2,
+              "averagePrice": 538.03
+            },
+            {
+              "sid": "AMAR",
+              "shares": 1,
+              "averagePrice": 860.93
+            },
+            {
+              "sid": "STTE",
+              "shares": 14,
+              "averagePrice": 85.9985714285714
+            },
+            {
+              "sid": "KEIN",
+              "shares": 11,
+              "averagePrice": 109.000909090909
+            },
+            {
+              "sid": "ATUL",
+              "shares": 3,
+              "averagePrice": 489.01
+            },
+            {
+              "sid": "SUPE",
+              "shares": 8,
+              "averagePrice": 161.00375
+            },
+            {
+              "sid": "JMNA",
+              "shares": 8,
+              "averagePrice": 145.995
+            }
+          ]
+        },
+        "date": "2016-06-27T07:55:56.711Z"
+      },
+      {
+        "_id": "5770dd145c05dd3c0156ffa3",
+        "name": "Transporting India - Low-Cost Version",
+        "source": "PROFESSIONAL",
+        "scid": "SCNM_0002",
+        "status": "VALID",
+        "version": 1,
+        "shortDescription": "Logistics companies poised for rapid growth, fuelled by GDP revival, GST and e-commerce",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 98.20901503464175,
+          "lastCloseIndex": 98.20901503464175,
+          "divReturns": 5.5,
+          "pe": 0,
+          "lastWeekCloseIndex": 97.27052920896743,
+          "lastToLastWeekCloseIndex": 101.61703488795226,
+          "lastMonthCloseIndex": 101.61703488795226
+        },
+        "returns": {
+          "divReturns": 301.7,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 11129.63,
+          "networth": 10628.599999999999
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Surface Logistics",
+              "constituents": [
+                "TCIL"
+              ]
+            },
+            {
+              "label": "Air & Surface Logistics",
+              "constituents": [
+                "GATI"
+              ]
+            },
+            {
+              "label": "Warehousing",
+              "constituents": [
+                "SNOW"
+              ]
+            },
+            {
+              "label": "Rail Logistics",
+              "constituents": [
+                "CCRI"
+              ]
+            },
+            {
+              "label": "Marine Logistics",
+              "constituents": [
+                "APSE",
+                "GPPL"
+              ]
+            },
+            {
+              "label": "Container Freight",
+              "constituents": [
+                "GATE",
+                "ACLL"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "TCIL",
+              "shares": 5,
+              "averagePrice": 276.006
+            },
+            {
+              "sid": "GATI",
+              "shares": 11,
+              "averagePrice": 129.997272727273
+            },
+            {
+              "sid": "SNOW",
+              "shares": 24,
+              "averagePrice": 55.9966666666667
+            },
+            {
+              "sid": "CCRI",
+              "shares": 1,
+              "averagePrice": 1379.91
+            },
+            {
+              "sid": "APSE",
+              "shares": 7,
+              "averagePrice": 190.987142857143
+            },
+            {
+              "sid": "GPPL",
+              "shares": 9,
+              "averagePrice": 160.993333333333
+            },
+            {
+              "sid": "GATE",
+              "shares": 5,
+              "averagePrice": 282.99
+            },
+            {
+              "sid": "ACLL",
+              "shares": 9,
+              "averagePrice": 155
+            }
+          ]
+        },
+        "date": "2016-06-27T08:00:20.450Z"
+      },
+      {
+        "_id": "57752c588e3960f75d32c113",
+        "name": "Sustainable Earnings",
+        "source": "PROFESSIONAL",
+        "scid": "SCMO_0011",
+        "status": "VALID",
+        "version": 1,
+        "shortDescription": "Invest in companies showing healthy and sustainable earning growth rates",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 131.94360513661906,
+          "lastCloseIndex": 131.94360513661906,
+          "divReturns": 5.5,
+          "pe": 0,
+          "lastWeekCloseIndex": 130.03219078933932,
+          "lastToLastWeekCloseIndex": 136.16323097732962,
+          "lastMonthCloseIndex": 136.16323097732962
+        },
+        "returns": {
+          "divReturns": 1041.2,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 18120.09,
+          "networth": 22867.1
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Materials",
+              "constituents": [
+                "HZNC",
+                "NOCI"
+              ]
+            },
+            {
+              "label": "Consumer Discretionary",
+              "constituents": [
+                "CEAT",
+                "JAGP",
+                "WLSP",
+                "NAVN",
+                "DBCL"
+              ]
+            },
+            {
+              "label": "Information Technology",
+              "constituents": [
+                "WIPR"
+              ]
+            },
+            {
+              "label": "Industrials",
+              "constituents": [
+                "CCRI"
+              ]
+            },
+            {
+              "label": "Healthcare",
+              "constituents": [
+                "CADI"
+              ]
+            },
+            {
+              "label": "Consumer Staples",
+              "constituents": [
+                "ITC",
+                "BACO",
+                "COLG"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "HZNC",
+              "shares": 8,
+              "averagePrice": 167.9975
+            },
+            {
+              "sid": "CEAT",
+              "shares": 1,
+              "averagePrice": 927.97
+            },
+            {
+              "sid": "JAGP",
+              "shares": 8,
+              "averagePrice": 171.9975
+            },
+            {
+              "sid": "NOCI",
+              "shares": 28,
+              "averagePrice": 49
+            },
+            {
+              "sid": "WLSP",
+              "shares": 14,
+              "averagePrice": 100.002857142857
+            },
+            {
+              "sid": "WIPR",
+              "shares": 3,
+              "averagePrice": 544.97
+            },
+            {
+              "sid": "CCRI",
+              "shares": 1,
+              "averagePrice": 1380.02
+            },
+            {
+              "sid": "NAVN",
+              "shares": 15,
+              "averagePrice": 89.0006666666667
+            },
+            {
+              "sid": "DBCL",
+              "shares": 4,
+              "averagePrice": 345.97
+            },
+            {
+              "sid": "CADI",
+              "shares": 4,
+              "averagePrice": 327.03
+            },
+            {
+              "sid": "ITC",
+              "shares": 4,
+              "averagePrice": 359.02
+            },
+            {
+              "sid": "BACO",
+              "shares": 4,
+              "averagePrice": 386.03
+            },
+            {
+              "sid": "COLG",
+              "shares": 2,
+              "averagePrice": 838.99
+            }
+          ]
+        },
+        "date": "2016-06-30T14:27:36.196Z"
+      },
+      {
+        "_id": "5776092e8e3960f75d32c116",
+        "name": "Bringing the Bling",
+        "source": "PROFESSIONAL",
+        "scid": "SCNM_0015",
+        "status": "VALID",
+        "version": 1,
+        "shortDescription": "Companies catering to India's emerging luxury market",
+        "flags": {
+          "managed": true
+        },
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 154.37038277336708,
+          "lastCloseIndex": 154.37038277336708,
+          "divReturns": 48.4,
+          "pe": 0,
+          "lastWeekCloseIndex": 154.01195554754898,
+          "lastToLastWeekCloseIndex": 160.07494455403656,
+          "lastMonthCloseIndex": 160.07494455403656
+        },
+        "returns": {
+          "divReturns": 279.5,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 13377.89,
+          "networth": 20371.999999999996
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Retail Fashion",
+              "constituents": [
+                "ITFL",
+                "ADIA",
+                "MOCF",
+                "FLFL"
+              ]
+            },
+            {
+              "label": "Jewellery & Watches",
+              "constituents": [
+                "TITN",
+                "PCJE"
+              ]
+            },
+            {
+              "label": "Casino",
+              "constituents": [
+                "DELT"
+              ]
+            },
+            {
+              "label": "Real Estate",
+              "constituents": [
+                "SUNT",
+                "KOLT",
+                "OEBO"
+              ]
+            },
+            {
+              "label": "Hotels & Resorts",
+              "constituents": [
+                "MAHH"
+              ]
+            },
+            {
+              "label": "High-end Tablewares",
+              "constituents": [
+                "LAOP"
+              ]
+            },
+            {
+              "label": "Wellness Services",
+              "constituents": [
+                "KAYA"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "ITFL",
+              "shares": 6,
+              "averagePrice": 139
+            },
+            {
+              "sid": "SUNT",
+              "shares": 4,
+              "averagePrice": 216.98
+            },
+            {
+              "sid": "TITN",
+              "shares": 2,
+              "averagePrice": 360.03
+            },
+            {
+              "sid": "ADIA",
+              "shares": 6,
+              "averagePrice": 134.003333333333
+            },
+            {
+              "sid": "MOCF",
+              "shares": 2,
+              "averagePrice": 435.99
+            },
+            {
+              "sid": "DELT",
+              "shares": 10,
+              "averagePrice": 84.001
+            },
+            {
+              "sid": "MAHH",
+              "shares": 2,
+              "averagePrice": 393.01
+            },
+            {
+              "sid": "LAOP",
+              "shares": 2,
+              "averagePrice": 507.96
+            },
+            {
+              "sid": "KAYA",
+              "shares": 1,
+              "averagePrice": 846.96
+            },
+            {
+              "sid": "PCJE",
+              "shares": 2,
+              "averagePrice": 368.03
+            },
+            {
+              "sid": "KOLT",
+              "shares": 7,
+              "averagePrice": 125.001428571429
+            },
+            {
+              "sid": "OEBO",
+              "shares": 3,
+              "averagePrice": 265.99
+            },
+            {
+              "sid": "FLFL",
+              "shares": 8,
+              "averagePrice": 111.0025
+            },
+            {
+              "sid": "INFY",
+              "shares": 2,
+              "averagePrice": 1246.97
+            }
+          ]
+        },
+        "date": "2016-07-01T06:09:50.921Z"
+      },
+      {
+        "_id": "577bb5e6912e25474b9e5ea3",
+        "name": "The GST Opportunity",
+        "source": "PROFESSIONAL",
+        "scid": "SCNM_0004",
+        "status": "VALID",
+        "version": 1,
+        "shortDescription": "Companies & sectors expected to benefit with the passage of GST bill",
+        "flags": {
+          "managed": true
+        },
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 127.31689989315606,
+          "lastCloseIndex": 127.31689989315606,
+          "divReturns": 77,
+          "pe": 0,
+          "lastWeekCloseIndex": 125.05481317148454,
+          "lastToLastWeekCloseIndex": 126.31672181990861,
+          "lastMonthCloseIndex": 126.31672181990861
+        },
+        "returns": {
+          "divReturns": 1245,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 53910.4,
+          "networth": 67392.05
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Ceramics",
+              "constituents": [
+                "KAJR"
+              ]
+            },
+            {
+              "label": "Plywood",
+              "constituents": [
+                "CNTP"
+              ]
+            },
+            {
+              "label": "Paints",
+              "constituents": [
+                "ASPN"
+              ]
+            },
+            {
+              "label": "Entertainment",
+              "constituents": [
+                "PVRL",
+                "DSTV"
+              ]
+            },
+            {
+              "label": "Logistics",
+              "constituents": [
+                "SNOW",
+                "ACLL",
+                "GATI"
+              ]
+            },
+            {
+              "label": "Footwear",
+              "constituents": [
+                "BATA",
+                "RLXO"
+              ]
+            },
+            {
+              "label": "FMCG",
+              "constituents": [
+                "HLL"
+              ]
+            },
+            {
+              "label": "Automobiles",
+              "constituents": [
+                "HROM",
+                "MRTI"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "KAJR",
+              "shares": 5,
+              "averagePrice": 1119.196
+            },
+            {
+              "sid": "CNTP",
+              "shares": 26,
+              "averagePrice": 161.001538461538
+            },
+            {
+              "sid": "DSTV",
+              "shares": 48,
+              "averagePrice": 85.99125
+            },
+            {
+              "sid": "ACLL",
+              "shares": 27,
+              "averagePrice": 154.995555555556
+            },
+            {
+              "sid": "ASPN",
+              "shares": 4,
+              "averagePrice": 998.01
+            },
+            {
+              "sid": "PVRL",
+              "shares": 5,
+              "averagePrice": 840.07
+            },
+            {
+              "sid": "SNOW",
+              "shares": 73,
+              "averagePrice": 55.9986301369863
+            },
+            {
+              "sid": "GATI",
+              "shares": 32,
+              "averagePrice": 130.0021875
+            },
+            {
+              "sid": "BATA",
+              "shares": 7,
+              "averagePrice": 557.008571428571
+            },
+            {
+              "sid": "RLXO",
+              "shares": 9,
+              "averagePrice": 446.991111111111
+            },
+            {
+              "sid": "HLL",
+              "shares": 5,
+              "averagePrice": 861.044
+            },
+            {
+              "sid": "HROM",
+              "shares": 1,
+              "averagePrice": 3002.1
+            },
+            {
+              "sid": "MRTI",
+              "shares": 1,
+              "averagePrice": 4146.26
+            }
+          ]
+        },
+        "date": "2016-07-05T13:28:06.039Z"
+      },
+      {
+        "_id": "577d11c1138d549266ff3c88",
+        "name": "India 24x7",
+        "source": "PROFESSIONAL",
+        "scid": "SCNM_0018",
+        "status": "VALID",
+        "version": 1,
+        "shortDescription": "Stocks set to benefit from govt's decision to allow malls, restaurants and cinemas run 24x7",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 232.34844666793052,
+          "lastCloseIndex": 232.34844666793052,
+          "divReturns": 8.8,
+          "pe": 0,
+          "lastWeekCloseIndex": 227.66637229108966,
+          "lastToLastWeekCloseIndex": 228.01603961586298,
+          "lastMonthCloseIndex": 228.01603961586298
+        },
+        "returns": {
+          "divReturns": 46.35,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 8651.08,
+          "networth": 20054.300000000003
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Movies & Entertainment",
+              "constituents": [
+                "PVRL",
+                "INOL"
+              ]
+            },
+            {
+              "label": "Restaurants",
+              "constituents": [
+                "JUBI",
+                "CODE",
+                "SPRE"
+              ]
+            },
+            {
+              "label": "Department Stores",
+              "constituents": [
+                "VMAR"
+              ]
+            },
+            {
+              "label": "Apparel Retail",
+              "constituents": [
+                "FLFL"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "PVRL",
+              "shares": 1,
+              "averagePrice": 1010.01
+            },
+            {
+              "sid": "JUBI",
+              "shares": 1,
+              "averagePrice": 1229.92
+            },
+            {
+              "sid": "VMAR",
+              "shares": 3,
+              "averagePrice": 480.05
+            },
+            {
+              "sid": "INOL",
+              "shares": 5,
+              "averagePrice": 247
+            },
+            {
+              "sid": "SPRE",
+              "shares": 13,
+              "averagePrice": 96.9961538461538
+            },
+            {
+              "sid": "CODE",
+              "shares": 5,
+              "averagePrice": 257.01
+            },
+            {
+              "sid": "FLFL",
+              "shares": 10,
+              "averagePrice": 119
+            }
+          ]
+        },
+        "date": "2016-07-06T14:12:17.178Z"
+      },
+      {
+        "_id": "577df191138d549266ff3c89",
+        "name": "Brand Value",
+        "source": "PROFESSIONAL",
+        "scid": "SCNM_0007",
+        "status": "VALID",
+        "version": 1,
+        "shortDescription": "Companies that own brands new India is embracing",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 197.30437030176407,
+          "lastCloseIndex": 197.30437030176407,
+          "divReturns": 32.8,
+          "pe": 0,
+          "lastWeekCloseIndex": 194.38825761655147,
+          "lastToLastWeekCloseIndex": 196.12607867287255,
+          "lastMonthCloseIndex": 196.12607867287255
+        },
+        "returns": {
+          "divReturns": 265.65,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 10213.94,
+          "networth": 19886.9
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Apparels & Accessories",
+              "constituents": [
+                "MOCF",
+                "TITN",
+                "ARVN"
+              ]
+            },
+            {
+              "label": "Department Stores",
+              "constituents": [
+                "VMAR"
+              ]
+            },
+            {
+              "label": "Household & Personal Products",
+              "constituents": [
+                "HLL",
+                "EMAM"
+              ]
+            },
+            {
+              "label": "Leisure Facilities",
+              "constituents": [
+                "WOHL"
+              ]
+            },
+            {
+              "label": "Restaurants",
+              "constituents": [
+                "JUBI"
+              ]
+            },
+            {
+              "label": "Diversified",
+              "constituents": [
+                "ITC"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "MOCF",
+              "shares": 3,
+              "averagePrice": 412.006666666667
+            },
+            {
+              "sid": "TITN",
+              "shares": 3,
+              "averagePrice": 400.98
+            },
+            {
+              "sid": "VMAR",
+              "shares": 3,
+              "averagePrice": 480.04
+            },
+            {
+              "sid": "HLL",
+              "shares": 1,
+              "averagePrice": 890.05
+            },
+            {
+              "sid": "WOHL",
+              "shares": 3,
+              "averagePrice": 399.01
+            },
+            {
+              "sid": "EMAM",
+              "shares": 1,
+              "averagePrice": 1124.9
+            },
+            {
+              "sid": "JUBI",
+              "shares": 1,
+              "averagePrice": 1229.9
+            },
+            {
+              "sid": "ARVN",
+              "shares": 2,
+              "averagePrice": 338.99
+            },
+            {
+              "sid": "ITC",
+              "shares": 5,
+              "averagePrice": 243
+            }
+          ]
+        },
+        "date": "2016-07-07T06:07:13.371Z"
+      },
+      {
+        "_id": "5785eaafdb1862d22cd10801",
+        "name": "Digital Inclusion",
+        "source": "PROFESSIONAL",
+        "scid": "SCNM_0014",
+        "status": "VALID",
+        "version": 1,
+        "shortDescription": "Stocks of companies part of the data chain, increasing internet penetration across the country",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 117.78210511998044,
+          "lastCloseIndex": 117.78210511998044,
+          "divReturns": 14.6,
+          "pe": 0,
+          "lastWeekCloseIndex": 115.98115023510556,
+          "lastToLastWeekCloseIndex": 116.58979034199206,
+          "lastMonthCloseIndex": 116.58979034199206
+        },
+        "returns": {
+          "divReturns": 163.82,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 5808.03,
+          "networth": 6677
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Cable & Broadband",
+              "constituents": [
+                "SITI",
+                "DSTV"
+              ]
+            },
+            {
+              "label": "Telecom Operators",
+              "constituents": [
+                "BRTI",
+                "IDEA"
+              ]
+            },
+            {
+              "label": "Equipment Manufacturers",
+              "constituents": [
+                "HMFC",
+                "STTE",
+                "VNDY",
+                "SHIC"
+              ]
+            },
+            {
+              "label": "Infrastructure",
+              "constituents": [
+                "BHRI"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "SITI",
+              "shares": 16,
+              "averagePrice": 38
+            },
+            {
+              "sid": "BRTI",
+              "shares": 2,
+              "averagePrice": 360.99
+            },
+            {
+              "sid": "IDEA",
+              "shares": 6,
+              "averagePrice": 104.993333333333
+            },
+            {
+              "sid": "HMFC",
+              "shares": 34,
+              "averagePrice": 18
+            },
+            {
+              "sid": "STTE",
+              "shares": 7,
+              "averagePrice": 88
+            },
+            {
+              "sid": "VNDY",
+              "shares": 1,
+              "averagePrice": 625.99
+            },
+            {
+              "sid": "SHIC",
+              "shares": 4,
+              "averagePrice": 178.01
+            },
+            {
+              "sid": "BHRI",
+              "shares": 2,
+              "averagePrice": 347.03
+            },
+            {
+              "sid": "DSTV",
+              "shares": 6,
+              "averagePrice": 98
+            }
+          ]
+        },
+        "date": "2016-07-13T07:15:59.284Z"
+      },
+      {
+        "_id": "578df17cdb1862d22cd10809",
+        "name": "smallcase Realty Tracker",
+        "source": "PROFESSIONAL",
+        "scid": "SCTR_0010",
+        "status": "VALID",
+        "version": 1,
+        "shortDescription": "Companies tracking the performance of Realty Sector",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 156.52115126860582,
+          "lastCloseIndex": 156.52115126860582,
+          "divReturns": 0.45,
+          "pe": 0,
+          "lastWeekCloseIndex": 156.42562372140054,
+          "lastToLastWeekCloseIndex": 166.163554918052,
+          "lastMonthCloseIndex": 166.163554918052
+        },
+        "returns": {
+          "divReturns": 35.699999999999996,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 3402.16,
+          "networth": 5289.4
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Real Estate",
+              "constituents": [
+                "DELT",
+                "DLF",
+                "GODR",
+                "HDIL",
+                "INRL",
+                "OEBO",
+                "PHOE",
+                "PREG",
+                "SOBH",
+                "UNTE"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "DELT",
+              "shares": 4,
+              "averagePrice": 89.01
+            },
+            {
+              "sid": "DLF",
+              "shares": 2,
+              "averagePrice": 151
+            },
+            {
+              "sid": "GODR",
+              "shares": 1,
+              "averagePrice": 360.99
+            },
+            {
+              "sid": "HDIL",
+              "shares": 4,
+              "averagePrice": 99.01
+            },
+            {
+              "sid": "INRL",
+              "shares": 4,
+              "averagePrice": 84.01
+            },
+            {
+              "sid": "OEBO",
+              "shares": 1,
+              "averagePrice": 297
+            },
+            {
+              "sid": "PHOE",
+              "shares": 1,
+              "averagePrice": 332.02
+            },
+            {
+              "sid": "PREG",
+              "shares": 2,
+              "averagePrice": 175.01
+            },
+            {
+              "sid": "SOBH",
+              "shares": 1,
+              "averagePrice": 320.01
+            },
+            {
+              "sid": "UNTE",
+              "shares": 44,
+              "averagePrice": 8
+            }
+          ]
+        },
+        "date": "2016-07-19T09:23:08.320Z",
+        "flags": {
+          "active": false
+        }
+      },
+      {
+        "_id": "578df4a9db1862d22cd1080a",
+        "name": "Propelling Growth",
+        "source": "PROFESSIONAL",
+        "scid": "SCMO_0004",
+        "status": "VALID",
+        "version": 1,
+        "shortDescription": "Growth stocks experiencing positive momentum",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 126.00447706369505,
+          "lastCloseIndex": 126.00447706369505,
+          "divReturns": 68.5,
+          "pe": 0,
+          "lastWeekCloseIndex": 124.7698259741251,
+          "lastToLastWeekCloseIndex": 129.66907415181467,
+          "lastMonthCloseIndex": 129.66907415181467
+        },
+        "returns": {
+          "divReturns": 660.05,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 16769.92,
+          "networth": 20470.800000000003
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Consumer Staples",
+              "constituents": [
+                "DLMI",
+                "TREI",
+                "BACH"
+              ]
+            },
+            {
+              "label": "Materials",
+              "constituents": [
+                "CSFL",
+                "IOLC",
+                "MAIT",
+                "NKML",
+                "MEGH",
+                "GNFC",
+                "SPTL",
+                "APLA"
+              ]
+            },
+            {
+              "label": "Consumer Discretionary",
+              "constituents": [
+                "HMSD",
+                "MNDA"
+              ]
+            },
+            {
+              "label": "Industrials",
+              "constituents": [
+                "SHIC"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "DLMI",
+              "shares": 8,
+              "averagePrice": 150.0025
+            },
+            {
+              "sid": "CSFL",
+              "shares": 4,
+              "averagePrice": 336.99
+            },
+            {
+              "sid": "HMSD",
+              "shares": 4,
+              "averagePrice": 274.03
+            },
+            {
+              "sid": "IOLC",
+              "shares": 8,
+              "averagePrice": 148.9975
+            },
+            {
+              "sid": "TREI",
+              "shares": 21,
+              "averagePrice": 57.0019047619048
+            },
+            {
+              "sid": "BACH",
+              "shares": 9,
+              "averagePrice": 127.998888888889
+            },
+            {
+              "sid": "SHIC",
+              "shares": 7,
+              "averagePrice": 183.997142857143
+            },
+            {
+              "sid": "MAIT",
+              "shares": 4,
+              "averagePrice": 329
+            },
+            {
+              "sid": "NKML",
+              "shares": 1,
+              "averagePrice": 1216.9
+            },
+            {
+              "sid": "MNDA",
+              "shares": 1,
+              "averagePrice": 1169.9
+            },
+            {
+              "sid": "MEGH",
+              "shares": 26,
+              "averagePrice": 46
+            },
+            {
+              "sid": "GNFC",
+              "shares": 7,
+              "averagePrice": 169.002857142857
+            },
+            {
+              "sid": "SPTL",
+              "shares": 7,
+              "averagePrice": 182.002857142857
+            },
+            {
+              "sid": "APLA",
+              "shares": 1,
+              "averagePrice": 940.99
+            }
+          ]
+        },
+        "date": "2016-07-19T09:36:41.192Z"
+      },
+      {
+        "_id": "5798a8c791c104e32fde1839",
+        "name": "Monsoon Cheer - Low-Cost Version",
+        "source": "PROFESSIONAL",
+        "scid": "SCNM_0017",
+        "status": "VALID",
+        "version": 1,
+        "shortDescription": "Companies whose fortunes are linked with good monsoons",
+        "flags": {
+          "active": false
+        },
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 190.6036743672914,
+          "lastCloseIndex": 190.6036743672914,
+          "divReturns": 30.6,
+          "pe": 0,
+          "lastWeekCloseIndex": 188.63502738269045,
+          "lastToLastWeekCloseIndex": 185.91327383351063,
+          "lastMonthCloseIndex": 185.91327383351063
+        },
+        "returns": {
+          "divReturns": 240.3,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 6054.92,
+          "networth": 11300.6
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "FMCG",
+              "constituents": [
+                "MRCO",
+                "DABU",
+                "BACO"
+              ]
+            },
+            {
+              "label": "Rural Credit",
+              "constituents": [
+                "MMFS"
+              ]
+            },
+            {
+              "label": "Tractors",
+              "constituents": [
+                "ESCO"
+              ]
+            },
+            {
+              "label": "Agro Chemicals",
+              "constituents": [
+                "DHNP",
+                "GNFC",
+                "CHMB"
+              ]
+            },
+            {
+              "label": "Seeds",
+              "constituents": [
+                "KVRI"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "MRCO",
+              "shares": 2,
+              "averagePrice": 284
+            },
+            {
+              "sid": "DABU",
+              "shares": 2,
+              "averagePrice": 301.97
+            },
+            {
+              "sid": "BACO",
+              "shares": 2,
+              "averagePrice": 399.01
+            },
+            {
+              "sid": "MMFS",
+              "shares": 2,
+              "averagePrice": 316
+            },
+            {
+              "sid": "ESCO",
+              "shares": 3,
+              "averagePrice": 252.99
+            },
+            {
+              "sid": "DHNP",
+              "shares": 1,
+              "averagePrice": 652.03
+            },
+            {
+              "sid": "GNFC",
+              "shares": 4,
+              "averagePrice": 158.99
+            },
+            {
+              "sid": "CHMB",
+              "shares": 10,
+              "averagePrice": 65.002
+            },
+            {
+              "sid": "KVRI",
+              "shares": 2,
+              "averagePrice": 377.99
+            }
+          ]
+        },
+        "date": "2016-07-27T12:27:51.932Z"
+      },
+      {
+        "_id": "57a3363f2de0896d16af63a6",
+        "name": "Speciality Chemicals",
+        "source": "PROFESSIONAL",
+        "scid": "SCNM_0019",
+        "status": "VALID",
+        "version": 1,
+        "shortDescription": "Increasing demand from end user industries and government initiative towards promoting local manufacturing will benefit these companies",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 139.92335870492076,
+          "lastCloseIndex": 139.92335870492076,
+          "divReturns": 1.5,
+          "pe": 0,
+          "lastWeekCloseIndex": 137.77380560818986,
+          "lastToLastWeekCloseIndex": 141.52791615409498,
+          "lastMonthCloseIndex": 141.52791615409498
+        },
+        "returns": {
+          "divReturns": 112.25,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 14623.97,
+          "networth": 20350.1
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Specialty Chemicals",
+              "constituents": [
+                "ASPN",
+                "ARTI",
+                "NAFL",
+                "VNTI"
+              ]
+            },
+            {
+              "label": "Diversified Chemicals",
+              "constituents": [
+                "PIDI",
+                "PIIL",
+                "ATLP"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "ASPN",
+              "shares": 1,
+              "averagePrice": 1127.09
+            },
+            {
+              "sid": "PIDI",
+              "shares": 3,
+              "averagePrice": 713.05
+            },
+            {
+              "sid": "PIIL",
+              "shares": 3,
+              "averagePrice": 775.986666666667
+            },
+            {
+              "sid": "ATLP",
+              "shares": 1,
+              "averagePrice": 1906.91
+            },
+            {
+              "sid": "ARTI",
+              "shares": 4,
+              "averagePrice": 557.99
+            },
+            {
+              "sid": "NAFL",
+              "shares": 1,
+              "averagePrice": 2215.88
+            },
+            {
+              "sid": "VNTI",
+              "shares": 5,
+              "averagePrice": 535.004
+            }
+          ]
+        },
+        "date": "2016-08-04T12:34:07.845Z"
+      },
+      {
+        "_id": "57beda92d89eddd70b84c531",
+        "name": "Dividend Stars",
+        "source": "PROFESSIONAL",
+        "scid": "SCMO_0013",
+        "status": "VALID",
+        "dateModified": "2016-08-25T12:06:01.807Z",
+        "version": 1,
+        "shortDescription": "High yield companies with a track record of not cutting dividends",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 130.21070875698803,
+          "lastCloseIndex": 130.21070875698803,
+          "divReturns": 42.5,
+          "pe": 0,
+          "lastToLastWeekCloseIndex": 132.45357155714646,
+          "lastWeekCloseIndex": 128.53511898333153,
+          "lastMonthCloseIndex": 132.45357155714646
+        },
+        "returns": {
+          "divReturns": 307.59999999999997,
+          "otherReturns": 0,
+          "realizedReturns": -0.0899999999999181,
+          "realizedInvestment": 2028.06,
+          "unrealizedInvestment": 7693.89,
+          "networth": 10323.449999999999
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Materials",
+              "constituents": [
+                "TTCH",
+                "CHMB",
+                "TNNP",
+                "HUHT",
+                "NOCI"
+              ]
+            },
+            {
+              "label": "Financials",
+              "constituents": [
+                "IDFC",
+                "TINV",
+                "GICH"
+              ]
+            },
+            {
+              "label": "Information Technology",
+              "constituents": [
+                "NITT"
+              ]
+            },
+            {
+              "label": "Industrials",
+              "constituents": [
+                "BLMR"
+              ]
+            },
+            {
+              "label": "Consumer Discretionary",
+              "constituents": [
+                "GABR",
+                "MNJL"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "TINV",
+              "shares": 1,
+              "averagePrice": 565
+            },
+            {
+              "sid": "CHMB",
+              "shares": 10,
+              "averagePrice": 67.998
+            },
+            {
+              "sid": "TNNP",
+              "shares": 2,
+              "averagePrice": 335.99
+            },
+            {
+              "sid": "HUHT",
+              "shares": 2,
+              "averagePrice": 292.02
+            },
+            {
+              "sid": "BLMR",
+              "shares": 1,
+              "averagePrice": 705.93
+            },
+            {
+              "sid": "GICH",
+              "shares": 2,
+              "averagePrice": 300
+            },
+            {
+              "sid": "GABR",
+              "shares": 6,
+              "averagePrice": 118.998333333333
+            },
+            {
+              "sid": "NOCI",
+              "shares": 11,
+              "averagePrice": 64.0036363636364
+            },
+            {
+              "sid": "MNJL",
+              "shares": 4,
+              "averagePrice": 180
+            },
+            {
+              "sid": "LICH",
+              "shares": 1,
+              "averagePrice": 556.97
+            },
+            {
+              "sid": "RLIN",
+              "shares": 1,
+              "averagePrice": 597.96
+            },
+            {
+              "sid": "GMBR",
+              "shares": 1,
+              "averagePrice": 594
+            }
+          ]
+        },
+        "date": "2016-08-25T11:46:26.791Z"
+      },
+      {
+        "_id": "57d12b1e3e0cdb3f2b18376d",
+        "name": "Bargain Buys",
+        "source": "PROFESSIONAL",
+        "scid": "SCMO_0002",
+        "status": "INVALID",
+        "version": 3,
+        "dateModified": "2016-09-08T09:10:24.913Z",
+        "shortDescription": "Quality stocks at low valuations",
+        "failedBatch": {
+          "sellAmount": 0,
+          "buyAmount": 0
+        },
+        "stats": {
+          "indexValue": 208.98866962647583,
+          "lastCloseIndex": 208.98866962647583,
+          "divReturns": 9,
+          "pe": 0,
+          "lastToLastWeekCloseIndex": 218.02915925547262,
+          "lastWeekCloseIndex": 212.5460427725102,
+          "lastMonthCloseIndex": 218.02915925547262
+        },
+        "returns": {
+          "divReturns": 18.8,
+          "otherReturns": 0,
+          "realizedReturns": 0,
+          "realizedInvestment": 0,
+          "unrealizedInvestment": 714.01,
+          "networth": 1473.4
+        },
+        "currentConfig": {
+          "segments": [
+            {
+              "label": "Utilities",
+              "constituents": [
+                "SJVN"
+              ]
+            },
+            {
+              "label": "Materials",
+              "constituents": [
+                "GALK"
+              ]
+            },
+            {
+              "label": "Real Estate",
+              "constituents": [
+                "KOLT"
+              ]
+            }
+          ],
+          "constituents": [
+            {
+              "sid": "GALK",
+              "shares": 1,
+              "averagePrice": 329.98
+            },
+            {
+              "sid": "KOLT",
+              "shares": 3,
+              "averagePrice": 128.01
+            }
+          ]
+        },
+        "date": "2016-09-08T09:10:54.585Z"
+      }
+    ],
+    "holdings": {
+      "returns": {
+        "unrealizedReturns": 0,
+        "otherReturns": 0,
+        "divReturns": 13569.394261589008,
+        "realizedReturns": 20389.440810182863,
+        "realizedInvestment": 663719.2591898172,
+        "unrealizedInvestment": 374472.7808101828,
+        "networth": 604284.75,
+        "exitedRealizedInvestment": 0,
+        "exitedRealizedReturns": 0
+      },
+      "constituents": [
+        {
+          "sid": "HPCL",
+          "shares": 3,
+          "averagePrice": 42.42
+        },
+        {
+          "sid": "IOC",
+          "shares": 2,
+          "averagePrice": 97.71
+        },
+        {
+          "sid": "SCI",
+          "shares": 13,
+          "averagePrice": 138.373846153846
+        },
+        {
+          "sid": "VART",
+          "shares": 1,
+          "averagePrice": 196.42
+        },
+        {
+          "sid": "JYPE",
+          "shares": 116,
+          "averagePrice": 178.945862068966
+        },
+        {
+          "sid": "HTML",
+          "shares": 21,
+          "averagePrice": 84.0437380952381
+        },
+        {
+          "sid": "WGSR",
+          "shares": 22,
+          "averagePrice": 125.154090909091
+        },
+        {
+          "sid": "BBRM",
+          "shares": 6,
+          "averagePrice": 352.976666666667
+        },
+        {
+          "sid": "KIRO",
+          "shares": 4,
+          "averagePrice": 142.95
+        },
+        {
+          "sid": "CHMB",
+          "shares": 57,
+          "averagePrice": 75.2853019474294
+        },
+        {
+          "sid": "DRDG",
+          "shares": 2,
+          "averagePrice": 198.16
+        },
+        {
+          "sid": "HZNC",
+          "shares": 13,
+          "averagePrice": 166.374364207222
+        },
+        {
+          "sid": "BEML",
+          "shares": 1,
+          "averagePrice": 100.68
+        },
+        {
+          "sid": "JSWE",
+          "shares": 13,
+          "averagePrice": 142.791428571429
+        },
+        {
+          "sid": "ARBN",
+          "shares": 2,
+          "averagePrice": 175.39
+        },
+        {
+          "sid": "CADI",
+          "shares": 9,
+          "averagePrice": 291.728079561043
+        },
+        {
+          "sid": "CIPL",
+          "shares": 3,
+          "averagePrice": 197.51
+        },
+        {
+          "sid": "DIVI",
+          "shares": 1,
+          "averagePrice": 104.85
+        },
+        {
+          "sid": "GLEN",
+          "shares": 2,
+          "averagePrice": 96.48
+        },
+        {
+          "sid": "LUPN",
+          "shares": 1,
+          "averagePrice": 157.86
+        },
+        {
+          "sid": "PIRA",
+          "shares": 1,
+          "averagePrice": 763.515
+        },
+        {
+          "sid": "SUN",
+          "shares": 2,
+          "averagePrice": 125.84
+        },
+        {
+          "sid": "BSSL",
+          "shares": 36,
+          "averagePrice": 134.5875
+        },
+        {
+          "sid": "NMDC",
+          "shares": 24,
+          "averagePrice": 118.265833333333
+        },
+        {
+          "sid": "JNSP",
+          "shares": 18,
+          "averagePrice": 179.863333333333
+        },
+        {
+          "sid": "VDAN",
+          "shares": 13,
+          "averagePrice": 79.5738461538462
+        },
+        {
+          "sid": "TISC",
+          "shares": 4,
+          "averagePrice": 101.5
+        },
+        {
+          "sid": "COAL",
+          "shares": 5,
+          "averagePrice": 187.61
+        },
+        {
+          "sid": "JIND",
+          "shares": 30,
+          "averagePrice": 106.666
+        },
+        {
+          "sid": "SAIL",
+          "shares": 29,
+          "averagePrice": 118.073103448276
+        },
+        {
+          "sid": "NALU",
+          "shares": 31,
+          "averagePrice": 191.177272727273
+        },
+        {
+          "sid": "HALC",
+          "shares": 13,
+          "averagePrice": 180.132307692308
+        },
+        {
+          "sid": "JSTL",
+          "shares": 1,
+          "averagePrice": 170.43
+        },
+        {
+          "sid": "HCLT",
+          "shares": 0,
+          "averagePrice": 89.28
+        },
+        {
+          "sid": "INED",
+          "shares": 0,
+          "averagePrice": 115.23
+        },
+        {
+          "sid": "INFY",
+          "shares": 4,
+          "averagePrice": 1246.945
+        },
+        {
+          "sid": "JUST",
+          "shares": 0,
+          "averagePrice": 154.23
+        },
+        {
+          "sid": "MINT",
+          "shares": 0,
+          "averagePrice": 135.3
+        },
+        {
+          "sid": "TCS",
+          "shares": 0,
+          "averagePrice": 182.02
+        },
+        {
+          "sid": "TEML",
+          "shares": 2,
+          "averagePrice": 473.27
+        },
+        {
+          "sid": "SOFT",
+          "shares": 7,
+          "averagePrice": 138.265454545455
+        },
+        {
+          "sid": "SUTV",
+          "shares": 4,
+          "averagePrice": 331.746666666667
+        },
+        {
+          "sid": "BHRI",
+          "shares": 2,
+          "averagePrice": 345.83125
+        },
+        {
+          "sid": "INGL",
+          "shares": 2,
+          "averagePrice": 1017.52125
+        },
+        {
+          "sid": "TITN",
+          "shares": 8,
+          "averagePrice": 348.2349
+        },
+        {
+          "sid": "MAHM",
+          "shares": 2,
+          "averagePrice": 1023.4175
+        },
+        {
+          "sid": "VMAR",
+          "shares": 9,
+          "averagePrice": 383.266666666667
+        },
+        {
+          "sid": "BJEL",
+          "shares": 6,
+          "averagePrice": 120.576666666667
+        },
+        {
+          "sid": "PVRL",
+          "shares": 10,
+          "averagePrice": 817.563703703704
+        },
+        {
+          "sid": "COLG",
+          "shares": 4,
+          "averagePrice": 781.2125
+        },
+        {
+          "sid": "BACO",
+          "shares": 12,
+          "averagePrice": 379.556073333333
+        },
+        {
+          "sid": "REXP",
+          "shares": 5,
+          "averagePrice": 553.630751521492
+        },
+        {
+          "sid": "TREI",
+          "shares": 35,
+          "averagePrice": 54.5285873015873
+        },
+        {
+          "sid": "ENIL",
+          "shares": 1,
+          "averagePrice": 742.06
+        },
+        {
+          "sid": "HINS",
+          "shares": 3,
+          "averagePrice": 269
+        },
+        {
+          "sid": "JAGP",
+          "shares": 18,
+          "averagePrice": 171.371865569273
+        },
+        {
+          "sid": "ZEE",
+          "shares": 4,
+          "averagePrice": 453.025
+        },
+        {
+          "sid": "TVTO",
+          "shares": 6,
+          "averagePrice": 309.995
+        },
+        {
+          "sid": "TVEB",
+          "shares": 42,
+          "averagePrice": 40
+        },
+        {
+          "sid": "NDTV",
+          "shares": 0,
+          "averagePrice": 98.13
+        },
+        {
+          "sid": "HAWY",
+          "shares": 0,
+          "averagePrice": 36.0582608695652
+        },
+        {
+          "sid": "DSTV",
+          "shares": 64,
+          "averagePrice": 88.1397107306305
+        },
+        {
+          "sid": "UFOM",
+          "shares": 2,
+          "averagePrice": 529.98
+        },
+        {
+          "sid": "SHEM",
+          "shares": 3,
+          "averagePrice": 316.01
+        },
+        {
+          "sid": "EROS",
+          "shares": 10,
+          "averagePrice": 181.001
+        },
+        {
+          "sid": "BLTE",
+          "shares": 8,
+          "averagePrice": 108
+        },
+        {
+          "sid": "INOL",
+          "shares": 13,
+          "averagePrice": 215.006153846154
+        },
+        {
+          "sid": "CHPC",
+          "shares": 12,
+          "averagePrice": 201.003055555555
+        },
+        {
+          "sid": "KEIN",
+          "shares": 47,
+          "averagePrice": 109.009665158584
+        },
+        {
+          "sid": "GGAS",
+          "shares": 2,
+          "averagePrice": 531.76
+        },
+        {
+          "sid": "SRIK",
+          "shares": 10,
+          "averagePrice": 249.1808
+        },
+        {
+          "sid": "LYCO",
+          "shares": 132,
+          "averagePrice": 18.5963728191001
+        },
+        {
+          "sid": "BSLI",
+          "shares": 82,
+          "averagePrice": 11.9960975609756
+        },
+        {
+          "sid": "CEAT",
+          "shares": 2,
+          "averagePrice": 943.5375
+        },
+        {
+          "sid": "AVNT",
+          "shares": 2,
+          "averagePrice": 456.03
+        },
+        {
+          "sid": "KITE",
+          "shares": 2,
+          "averagePrice": 449.55
+        },
+        {
+          "sid": "MIRZ",
+          "shares": 10,
+          "averagePrice": 102.886
+        },
+        {
+          "sid": "SKIP",
+          "shares": 18,
+          "averagePrice": 139.280709876543
+        },
+        {
+          "sid": "CCRI",
+          "shares": 5,
+          "averagePrice": 1379.958
+        },
+        {
+          "sid": "SITI",
+          "shares": 60,
+          "averagePrice": 37.4622222222222
+        },
+        {
+          "sid": "IDEA",
+          "shares": 18,
+          "averagePrice": 108.55384083045
+        },
+        {
+          "sid": "STTE",
+          "shares": 38,
+          "averagePrice": 86.3673227322307
+        },
+        {
+          "sid": "CSFL",
+          "shares": 6,
+          "averagePrice": 346.327821470304
+        },
+        {
+          "sid": "DENN",
+          "shares": 9,
+          "averagePrice": 91.9977777777778
+        },
+        {
+          "sid": "NEFI",
+          "shares": 20,
+          "averagePrice": 41
+        },
+        {
+          "sid": "GMBR",
+          "shares": 2,
+          "averagePrice": 651.989645633288
+        },
+        {
+          "sid": "XCHA",
+          "shares": 9,
+          "averagePrice": 76
+        },
+        {
+          "sid": "DLMI",
+          "shares": 16,
+          "averagePrice": 121.00125
+        },
+        {
+          "sid": "GAPR",
+          "shares": 1,
+          "averagePrice": 562.02
+        },
+        {
+          "sid": "HMSD",
+          "shares": 7,
+          "averagePrice": 252.589714719909
+        },
+        {
+          "sid": "IOLC",
+          "shares": 14,
+          "averagePrice": 137.858571428572
+        },
+        {
+          "sid": "BACH",
+          "shares": 16,
+          "averagePrice": 118.81375
+        },
+        {
+          "sid": "KDAI",
+          "shares": 7,
+          "averagePrice": 105.007142857143
+        },
+        {
+          "sid": "BODA",
+          "shares": 8,
+          "averagePrice": 85
+        },
+        {
+          "sid": "NOCI",
+          "shares": 39,
+          "averagePrice": 53.2317948717949
+        },
+        {
+          "sid": "ITC",
+          "shares": 17,
+          "averagePrice": 324.880196078431
+        },
+        {
+          "sid": "TCIL",
+          "shares": 19,
+          "averagePrice": 276.002631578948
+        },
+        {
+          "sid": "BLDT",
+          "shares": 1,
+          "averagePrice": 5493.34
+        },
+        {
+          "sid": "GATI",
+          "shares": 73,
+          "averagePrice": 130.00015024304
+        },
+        {
+          "sid": "SNOW",
+          "shares": 166,
+          "averagePrice": 55.9992669268624
+        },
+        {
+          "sid": "APSE",
+          "shares": 27,
+          "averagePrice": 190.995925925926
+        },
+        {
+          "sid": "GPPL",
+          "shares": 33,
+          "averagePrice": 160.994545454545
+        },
+        {
+          "sid": "GATE",
+          "shares": 19,
+          "averagePrice": 282.996842105263
+        },
+        {
+          "sid": "ACLL",
+          "shares": 61,
+          "averagePrice": 154.998820933165
+        },
+        {
+          "sid": "JYOI",
+          "shares": 9,
+          "averagePrice": 289.004696099849
+        },
+        {
+          "sid": "BHAF",
+          "shares": 5,
+          "averagePrice": 632.9792
+        },
+        {
+          "sid": "MMFS",
+          "shares": 6,
+          "averagePrice": 321.326666666667
+        },
+        {
+          "sid": "SATR",
+          "shares": 4,
+          "averagePrice": 339
+        },
+        {
+          "sid": "KVRI",
+          "shares": 5,
+          "averagePrice": 415.208
+        },
+        {
+          "sid": "CORF",
+          "shares": 6,
+          "averagePrice": 236.001666666667
+        },
+        {
+          "sid": "DHNP",
+          "shares": 3,
+          "averagePrice": 642.683333333333
+        },
+        {
+          "sid": "ESCO",
+          "shares": 11,
+          "averagePrice": 194.813636363636
+        },
+        {
+          "sid": "HLL",
+          "shares": 8,
+          "averagePrice": 864.66125
+        },
+        {
+          "sid": "ERDY",
+          "shares": 6,
+          "averagePrice": 234.993333333333
+        },
+        {
+          "sid": "MAHH",
+          "shares": 5,
+          "averagePrice": 393.0172
+        },
+        {
+          "sid": "APLH",
+          "shares": 1,
+          "averagePrice": 1348.01
+        },
+        {
+          "sid": "IHTL",
+          "shares": 12,
+          "averagePrice": 115.996666666667
+        },
+        {
+          "sid": "NARY",
+          "shares": 4,
+          "averagePrice": 305.02
+        },
+        {
+          "sid": "WOHL",
+          "shares": 7,
+          "averagePrice": 387.578571428571
+        },
+        {
+          "sid": "TBKH",
+          "shares": 8,
+          "averagePrice": 172
+        },
+        {
+          "sid": "KAJR",
+          "shares": 6,
+          "averagePrice": 1115.345
+        },
+        {
+          "sid": "SNTX",
+          "shares": 18,
+          "averagePrice": 80
+        },
+        {
+          "sid": "LART",
+          "shares": 2,
+          "averagePrice": 1474.035
+        },
+        {
+          "sid": "NCCL",
+          "shares": 20,
+          "averagePrice": 72
+        },
+        {
+          "sid": "TRCE",
+          "shares": 3,
+          "averagePrice": 497.97
+        },
+        {
+          "sid": "JKLC",
+          "shares": 4,
+          "averagePrice": 344.97
+        },
+        {
+          "sid": "PIDI",
+          "shares": 7,
+          "averagePrice": 702.158571428571
+        },
+        {
+          "sid": "FINX",
+          "shares": 4,
+          "averagePrice": 384.9875
+        },
+        {
+          "sid": "JKIP",
+          "shares": 6,
+          "averagePrice": 234.003333333333
+        },
+        {
+          "sid": "KAPT",
+          "shares": 7,
+          "averagePrice": 226
+        },
+        {
+          "sid": "SREI",
+          "shares": 25,
+          "averagePrice": 57.0004
+        },
+        {
+          "sid": "ASPN",
+          "shares": 8,
+          "averagePrice": 1014.16375
+        },
+        {
+          "sid": "RMT",
+          "shares": 3,
+          "averagePrice": 503.96
+        },
+        {
+          "sid": "VGUA",
+          "shares": 2,
+          "averagePrice": 1228.01
+        },
+        {
+          "sid": "VATE",
+          "shares": 3,
+          "averagePrice": 555.99
+        },
+        {
+          "sid": "HDBK",
+          "shares": 3,
+          "averagePrice": 948.7501499202554
+        },
+        {
+          "sid": "HDFC",
+          "shares": 1,
+          "averagePrice": 1255.1
+        },
+        {
+          "sid": "AXBK",
+          "shares": 3,
+          "averagePrice": 512.04
+        },
+        {
+          "sid": "DABU",
+          "shares": 7,
+          "averagePrice": 296.997142857143
+        },
+        {
+          "sid": "LICH",
+          "shares": 4,
+          "averagePrice": 484.985
+        },
+        {
+          "sid": "RLIN",
+          "shares": 4,
+          "averagePrice": 555.2175
+        },
+        {
+          "sid": "SUPI",
+          "shares": 2,
+          "averagePrice": 914.09
+        },
+        {
+          "sid": "GRUH",
+          "shares": 12,
+          "averagePrice": 272.001666666667
+        },
+        {
+          "sid": "CYIE",
+          "shares": 3,
+          "averagePrice": 464
+        },
+        {
+          "sid": "ZENT",
+          "shares": 2,
+          "averagePrice": 961.91
+        },
+        {
+          "sid": "BJFS",
+          "shares": 1,
+          "averagePrice": 1834.89
+        },
+        {
+          "sid": "SRTR",
+          "shares": 2,
+          "averagePrice": 1193.99
+        },
+        {
+          "sid": "LTFH",
+          "shares": 25,
+          "averagePrice": 73.002
+        },
+        {
+          "sid": "MUTT",
+          "shares": 9,
+          "averagePrice": 213.998888888889
+        },
+        {
+          "sid": "CTBK",
+          "shares": 17,
+          "averagePrice": 105.997058823529
+        },
+        {
+          "sid": "CAPF",
+          "shares": 3,
+          "averagePrice": 527.97
+        },
+        {
+          "sid": "APAR",
+          "shares": 3,
+          "averagePrice": 487.97
+        },
+        {
+          "sid": "ICNT",
+          "shares": 1,
+          "averagePrice": 933.93
+        },
+        {
+          "sid": "GHCH",
+          "shares": 9,
+          "averagePrice": 162.001111111111
+        },
+        {
+          "sid": "TORP",
+          "shares": 1,
+          "averagePrice": 1377.92
+        },
+        {
+          "sid": "ALEM",
+          "shares": 3,
+          "averagePrice": 540.02
+        },
+        {
+          "sid": "SPTL",
+          "shares": 15,
+          "averagePrice": 174.002
+        },
+        {
+          "sid": "BLIS",
+          "shares": 14,
+          "averagePrice": 97.9978571428571
+        },
+        {
+          "sid": "JMNA",
+          "shares": 17,
+          "averagePrice": 145.996470588235
+        },
+        {
+          "sid": "APLO",
+          "shares": 8,
+          "averagePrice": 155.9975
+        },
+        {
+          "sid": "JKIN",
+          "shares": 15,
+          "averagePrice": 83
+        },
+        {
+          "sid": "RYMD",
+          "shares": 3,
+          "averagePrice": 447.01
+        },
+        {
+          "sid": "MAND",
+          "shares": 4,
+          "averagePrice": 315.02
+        },
+        {
+          "sid": "MRCO",
+          "shares": 7,
+          "averagePrice": 264.708571428571
+        },
+        {
+          "sid": "GOLU",
+          "shares": 2,
+          "averagePrice": 538.03
+        },
+        {
+          "sid": "AMAR",
+          "shares": 1,
+          "averagePrice": 860.93
+        },
+        {
+          "sid": "ATUL",
+          "shares": 3,
+          "averagePrice": 489.01
+        },
+        {
+          "sid": "SUPE",
+          "shares": 8,
+          "averagePrice": 161.00375
+        },
+        {
+          "sid": "WLSP",
+          "shares": 14,
+          "averagePrice": 100.002857142857
+        },
+        {
+          "sid": "WIPR",
+          "shares": 3,
+          "averagePrice": 544.97
+        },
+        {
+          "sid": "NAVN",
+          "shares": 15,
+          "averagePrice": 89.0006666666667
+        },
+        {
+          "sid": "DBCL",
+          "shares": 4,
+          "averagePrice": 345.97
+        },
+        {
+          "sid": "ITFL",
+          "shares": 6,
+          "averagePrice": 139
+        },
+        {
+          "sid": "SUNT",
+          "shares": 4,
+          "averagePrice": 216.98
+        },
+        {
+          "sid": "ADIA",
+          "shares": 6,
+          "averagePrice": 134.003333333333
+        },
+        {
+          "sid": "MOCF",
+          "shares": 5,
+          "averagePrice": 421.6
+        },
+        {
+          "sid": "DELT",
+          "shares": 14,
+          "averagePrice": 85.4321428571428
+        },
+        {
+          "sid": "LAOP",
+          "shares": 2,
+          "averagePrice": 507.96
+        },
+        {
+          "sid": "KAYA",
+          "shares": 1,
+          "averagePrice": 846.96
+        },
+        {
+          "sid": "PCJE",
+          "shares": 2,
+          "averagePrice": 368.03
+        },
+        {
+          "sid": "KOLT",
+          "shares": 10,
+          "averagePrice": 125.90400000000031
+        },
+        {
+          "sid": "OEBO",
+          "shares": 4,
+          "averagePrice": 273.7425
+        },
+        {
+          "sid": "FLFL",
+          "shares": 18,
+          "averagePrice": 115.445555555556
+        },
+        {
+          "sid": "CNTP",
+          "shares": 26,
+          "averagePrice": 161.001538461538
+        },
+        {
+          "sid": "BATA",
+          "shares": 7,
+          "averagePrice": 557.008571428571
+        },
+        {
+          "sid": "RLXO",
+          "shares": 9,
+          "averagePrice": 446.991111111111
+        },
+        {
+          "sid": "HROM",
+          "shares": 1,
+          "averagePrice": 3002.1
+        },
+        {
+          "sid": "MRTI",
+          "shares": 1,
+          "averagePrice": 4146.26
+        },
+        {
+          "sid": "JUBI",
+          "shares": 2,
+          "averagePrice": 1229.91
+        },
+        {
+          "sid": "SPRE",
+          "shares": 13,
+          "averagePrice": 96.9961538461538
+        },
+        {
+          "sid": "CODE",
+          "shares": 5,
+          "averagePrice": 257.01
+        },
+        {
+          "sid": "EMAM",
+          "shares": 1,
+          "averagePrice": 1124.9
+        },
+        {
+          "sid": "ARVN",
+          "shares": 2,
+          "averagePrice": 338.99
+        },
+        {
+          "sid": "BRTI",
+          "shares": 2,
+          "averagePrice": 360.99
+        },
+        {
+          "sid": "HMFC",
+          "shares": 34,
+          "averagePrice": 18
+        },
+        {
+          "sid": "VNDY",
+          "shares": 1,
+          "averagePrice": 625.99
+        },
+        {
+          "sid": "SHIC",
+          "shares": 11,
+          "averagePrice": 181.82
+        },
+        {
+          "sid": "DLF",
+          "shares": 2,
+          "averagePrice": 151
+        },
+        {
+          "sid": "GODR",
+          "shares": 1,
+          "averagePrice": 360.99
+        },
+        {
+          "sid": "HDIL",
+          "shares": 4,
+          "averagePrice": 99.01
+        },
+        {
+          "sid": "INRL",
+          "shares": 4,
+          "averagePrice": 84.01
+        },
+        {
+          "sid": "PHOE",
+          "shares": 1,
+          "averagePrice": 332.02
+        },
+        {
+          "sid": "PREG",
+          "shares": 2,
+          "averagePrice": 175.01
+        },
+        {
+          "sid": "SOBH",
+          "shares": 1,
+          "averagePrice": 320.01
+        },
+        {
+          "sid": "UNTE",
+          "shares": 44,
+          "averagePrice": 8
+        },
+        {
+          "sid": "MAIT",
+          "shares": 4,
+          "averagePrice": 329
+        },
+        {
+          "sid": "NKML",
+          "shares": 1,
+          "averagePrice": 1216.9
+        },
+        {
+          "sid": "MNDA",
+          "shares": 1,
+          "averagePrice": 1169.9
+        },
+        {
+          "sid": "MEGH",
+          "shares": 26,
+          "averagePrice": 46
+        },
+        {
+          "sid": "GNFC",
+          "shares": 11,
+          "averagePrice": 165.361818181818
+        },
+        {
+          "sid": "APLA",
+          "shares": 1,
+          "averagePrice": 940.99
+        },
+        {
+          "sid": "PIIL",
+          "shares": 3,
+          "averagePrice": 775.986666666667
+        },
+        {
+          "sid": "ATLP",
+          "shares": 1,
+          "averagePrice": 1906.91
+        },
+        {
+          "sid": "ARTI",
+          "shares": 4,
+          "averagePrice": 557.99
+        },
+        {
+          "sid": "NAFL",
+          "shares": 1,
+          "averagePrice": 2215.88
+        },
+        {
+          "sid": "VNTI",
+          "shares": 5,
+          "averagePrice": 535.004
+        },
+        {
+          "sid": "TINV",
+          "shares": 1,
+          "averagePrice": 565
+        },
+        {
+          "sid": "TNNP",
+          "shares": 2,
+          "averagePrice": 335.99
+        },
+        {
+          "sid": "HUHT",
+          "shares": 2,
+          "averagePrice": 292.02
+        },
+        {
+          "sid": "BLMR",
+          "shares": 1,
+          "averagePrice": 705.93
+        },
+        {
+          "sid": "GICH",
+          "shares": 2,
+          "averagePrice": 300
+        },
+        {
+          "sid": "GABR",
+          "shares": 6,
+          "averagePrice": 118.998333333333
+        },
+        {
+          "sid": "MNJL",
+          "shares": 4,
+          "averagePrice": 180
+        },
+        {
+          "sid": "SJVN",
+          "shares": 0,
+          "averagePrice": 28
+        },
+        {
+          "sid": "GALK",
+          "shares": 1,
+          "averagePrice": 329.98
+        }
+      ]
+    },
+    "flags": {
+      "updatedProfile": true,
+      "markers": {
+        "navbarDiscover": true,
+        "discoverTypes": true,
+        "smallcaseStocks": true,
+        "smallcaseRationale": true,
+        "manageInvestment": true,
+        "sipCallout": true,
+        "premiumPopup2": true
+      }
+    },
+    "actions": {
+      "rebalance": [
+        {
+          "iscid": "5718bc60e2c41ddb74734719",
+          "scid": "SCMO_0001",
+          "date": "2018-05-30T16:04:39.039Z",
+          "name": "Cash Cows at Bargain",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 9
+        },
+        {
+          "iscid": "5718bf81e2c41ddb74734720",
+          "scid": "SCTR_0009",
+          "date": "2018-05-28T14:32:05.986Z",
+          "name": "smallcase Pharma Tracker",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 9
+        },
+        {
+          "iscid": "5718c390e2c41ddb74734722",
+          "scid": "SCTR_0008",
+          "date": "2018-05-28T14:32:05.986Z",
+          "name": "smallcase Metal Tracker",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 9
+        },
+        {
+          "iscid": "5718c5b5e2c41ddb74734732",
+          "scid": "SCNM_0011",
+          "date": "2018-05-29T14:25:50.034Z",
+          "name": "The Great Indian Middle Class - Low-Cost Version",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 9
+        },
+        {
+          "iscid": "5727210bc9a7079641fd727a",
+          "scid": "SCMO_0012",
+          "date": "2017-02-28T14:41:05.034Z",
+          "name": "Low Accruals",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 5
+        },
+        {
+          "iscid": "572c46e6cced1bef550acc14",
+          "scid": "SCMO_0006",
+          "date": "2018-05-30T16:04:39.040Z",
+          "name": "Magic Formula",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 9
+        },
+        {
+          "iscid": "5763a1e75b599a7c15b017d9",
+          "scid": "SCNM_0003",
+          "date": "2018-05-29T14:25:50.034Z",
+          "name": "It's Showtime",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 9
+        },
+        {
+          "iscid": "5763a2da5b599a7c15b017da",
+          "scid": "SCTR_0007",
+          "date": "2018-05-28T14:32:05.987Z",
+          "name": "smallcase Media Tracker",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 9
+        },
+        {
+          "iscid": "5763a4215b599a7c15b017db",
+          "scid": "SCMO_0009",
+          "date": "2018-06-01T08:09:15.015Z",
+          "name": "Buy the Dip",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 10
+        },
+        {
+          "iscid": "5768f94391b343b75539a0a9",
+          "scid": "SCNM_0001",
+          "date": "2018-05-29T14:25:50.035Z",
+          "name": "Transporting India",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 9
+        },
+        {
+          "iscid": "5769367ae71a1b515fe1f0ff",
+          "scid": "SCMO_0007",
+          "date": "2017-02-28T14:41:05.035Z",
+          "name": "Straight Flush",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 6
+        },
+        {
+          "iscid": "576936cae71a1b515fe1f100",
+          "scid": "SCNM_0005",
+          "date": "2016-11-30T13:10:27.506Z",
+          "name": "The GST Opportunity - Low-Cost Version",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 4
+        },
+        {
+          "iscid": "576a7cee3687de3d3a9bec70",
+          "scid": "SCMO_0003",
+          "date": "2017-02-28T14:41:05.035Z",
+          "name": "Growth at a Fair Price",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 6
+        },
+        {
+          "iscid": "576a858f81941ab3442052d5",
+          "scid": "SCNM_0012",
+          "date": "2018-05-29T14:25:50.035Z",
+          "name": "Rising Rural Demand",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 9
+        },
+        {
+          "iscid": "576afa80ef127b914e045ca6",
+          "scid": "SCNM_0009",
+          "date": "2018-05-29T14:25:50.035Z",
+          "name": "Incredible India",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 9
+        },
+        {
+          "iscid": "576afb1def127b914e045ca7",
+          "scid": "SCNM_0013",
+          "date": "2018-05-29T14:25:50.036Z",
+          "name": "Smart Cities",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 9
+        },
+        {
+          "iscid": "576b6808ef127b914e045ca9",
+          "scid": "SCMO_0014",
+          "date": "2017-08-31T15:27:21.457Z",
+          "name": "Dividend Aristocrats",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 5
+        },
+        {
+          "iscid": "5770d9215c05dd3c0156ffa0",
+          "scid": "SCNM_0008",
+          "date": "2018-05-29T14:25:50.036Z",
+          "name": "Banking Privately",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 9
+        },
+        {
+          "iscid": "5770daad5c05dd3c0156ffa1",
+          "scid": "SCMO_0005",
+          "date": "2018-05-30T16:04:39.041Z",
+          "name": "Thrift Shopping",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 9
+        },
+        {
+          "iscid": "5770dd145c05dd3c0156ffa3",
+          "scid": "SCNM_0002",
+          "date": "2018-05-29T14:25:50.036Z",
+          "name": "Transporting India - Low-Cost Version",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 9
+        },
+        {
+          "iscid": "57752c588e3960f75d32c113",
+          "scid": "SCMO_0011",
+          "date": "2018-05-30T16:04:39.041Z",
+          "name": "Sustainable Earnings",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 9
+        },
+        {
+          "iscid": "5776092e8e3960f75d32c116",
+          "scid": "SCNM_0015",
+          "date": "2018-05-29T14:25:50.037Z",
+          "name": "Bringing the Bling",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 9
+        },
+        {
+          "iscid": "577bb5e6912e25474b9e5ea3",
+          "scid": "SCNM_0004",
+          "date": "2018-05-29T14:25:50.037Z",
+          "name": "The GST Opportunity",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 8
+        },
+        {
+          "iscid": "577d11c1138d549266ff3c88",
+          "scid": "SCNM_0018",
+          "date": "2018-05-29T14:25:50.037Z",
+          "name": "India 24x7",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 9
+        },
+        {
+          "iscid": "577df191138d549266ff3c89",
+          "scid": "SCNM_0007",
+          "date": "2018-05-29T14:25:50.038Z",
+          "name": "Brand Value",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 9
+        },
+        {
+          "iscid": "5785eaafdb1862d22cd10801",
+          "scid": "SCNM_0014",
+          "date": "2018-05-29T14:25:50.038Z",
+          "name": "Digital Inclusion",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 9
+        },
+        {
+          "iscid": "578df17cdb1862d22cd10809",
+          "scid": "SCTR_0010",
+          "date": "2018-05-28T14:32:05.987Z",
+          "name": "smallcase Realty Tracker",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 9
+        },
+        {
+          "iscid": "578df4a9db1862d22cd1080a",
+          "scid": "SCMO_0004",
+          "date": "2018-05-30T16:04:39.041Z",
+          "name": "Propelling Growth",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 9
+        },
+        {
+          "iscid": "57beda92d89eddd70b84c531",
+          "scid": "SCMO_0013",
+          "date": "2017-08-31T15:27:21.462Z",
+          "name": "Dividend Stars",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 5
+        },
+        {
+          "iscid": "57a3363f2de0896d16af63a6",
+          "scid": "SCNM_0019",
+          "date": "2018-05-29T14:25:50.038Z",
+          "name": "Speciality Chemicals",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 8
+        },
+        {
+          "iscid": "57d12b1e3e0cdb3f2b18376d",
+          "scid": "SCMO_0002",
+          "date": "2018-05-30T16:04:39.042Z",
+          "name": "Bargain Buys",
+          "label": "Quarterly Update: Stocks Change",
+          "version": 9
+        }
+      ],
+      "fix": [],
+      "sip": [],
+      "buy": [
+        {
+          "date": "2018-06-07T12:09:22.215Z",
+          "scid": "SCNM_0004",
+          "name": "The GST Opportunity"
+        },
+        {
+          "date": "2018-06-07T12:07:38.254Z",
+          "scid": "SCNM_0004",
+          "name": "The GST Opportunity"
+        },
+        {
+          "date": "2018-06-06T09:47:23.716Z",
+          "scid": "SCNM_0004",
+          "name": "The GST Opportunity"
+        },
+        {
+          "date": "2018-06-06T09:45:21.331Z",
+          "scid": "SCNM_0004",
+          "name": "The GST Opportunity"
+        }
+      ],
+      "sell": []
+    },
+    "appSettings": {
+      "devices": [],
+      "news": true,
+      "dailySummary": false,
+      "flags": {
+        "pnlUpdateNotification": true
+      }
+    }
+  },
+  "notificationType": "emailNotification",
+  "notificationPayload": {
+    "userId": "5620f9124b02db7e9de00ec3",
+    "smallcases": [
+      {
+        "reminderId": "5b05855a7d6a5567515c8973",
+        "scid": "SCNM_0004",
+        "action": "BUY",
+        "name": "The GST Opportunity"
+      }
+    ],
+    "scidSmallcaseMap": {
+      "SCNM_0004": {
+        "_id": "5704fb528cedad2432b3ca65",
+        "rationale": "GST is now the only indirect tax levied on the supply of a majority of goods and services, replacing service tax, VAT, octroi, etc. \r\n\r\nGST is the biggest tax reform to be implemented in India in decades\r\nOrganised players in unorganised sectors will gain market share as small unorganised players will not enjoy exemption benefits under GST. This will level the playing field between large and small players\r\nLogistics and transportation companies will benefit from lower costs and seamless movement of goods thanks to the abolishment of different state taxes\r\nTransportation companies will also face lower labour costs because of reduced checkpoints and warehouses\r\n\r\nThis smallcase comprises companies anticipated to benefit from the implementation of GST. \r\n\r\nA low-cost version of this smallcase, without high-priced stocks, is also available here.\r\n<ul>\r\n<li>GST is now the only indirect tax levied on the supply of a majority of goods and services, replacing service tax, VAT, octroi, etc.</li>\r\n<li>GST is the biggest tax reform to be implemented in India in decades</li>\r\n<li>Organised players in unorganised sectors will gain market share as small unorganised players will not enjoy exemption benefits under GST. This will level the playing field between large and small players</li>\r\n<li>Logistics and transportation companies will benefit from lower costs and seamless movement of goods thanks to the abolishment of different state taxes</li>\r\n<li>Transportation companies will also face lower labour costs because of reduced checkpoints and warehouses</li>\r\n</ul>\r\n<p>This smallcase comprises companies anticipated to benefit from the implementation of GST.</p>\r\n<p>A low-cost version of this smallcase, without high-priced stocks, is also available <a href=\"/smallcase/SCNM_0005\">here</a>&nbsp;</p>",
+        "scid": "SCNM_0004",
+        "segments": [
+          {
+            "constituents": [
+              "ERDY",
+              "EXID"
+            ],
+            "label": "Batteries"
+          },
+          {
+            "constituents": [
+              "JYOI",
+              "HLL",
+              "ITC"
+            ],
+            "label": "FMCG"
+          },
+          {
+            "constituents": [
+              "ASPN",
+              "KANE"
+            ],
+            "label": "Paints"
+          },
+          {
+            "constituents": [
+              "TITN"
+            ],
+            "label": "Precious Metals, Jewellery & Watches"
+          },
+          {
+            "constituents": [
+              "SUPI",
+              "NKML"
+            ],
+            "label": "Plastic Products"
+          },
+          {
+            "constituents": [
+              "CROP"
+            ],
+            "label": "Home Electronics & Appliances"
+          },
+          {
+            "constituents": [
+              "FNXC"
+            ],
+            "label": "Cables"
+          },
+          {
+            "constituents": [
+              "RLXO",
+              "ASGI"
+            ],
+            "label": "Footwear"
+          },
+          {
+            "constituents": [
+              "KAJR"
+            ],
+            "label": "Building Products"
+          },
+          {
+            "constituents": [
+              "GRPL"
+            ],
+            "label": "Wood Products"
+          },
+          {
+            "constituents": [
+              "UFLX"
+            ],
+            "label": "Packaging"
+          }
+        ],
+        "constituents": [
+          {
+            "sid": "ERDY",
+            "weight": 0.058823529411764705,
+            "shares": 0.07833389500900155
+          },
+          {
+            "sid": "JYOI",
+            "weight": 0.058823529411764705,
+            "shares": 0.04728295197158076
+          },
+          {
+            "sid": "HLL",
+            "weight": 0.058823529411764705,
+            "shares": 0.012833171011044222
+          },
+          {
+            "sid": "ITC",
+            "weight": 0.058823529411764705,
+            "shares": 0.0736461523410664
+          },
+          {
+            "sid": "ASPN",
+            "weight": 0.058823529411764705,
+            "shares": 0.015531148941184491
+          },
+          {
+            "sid": "TITN",
+            "weight": 0.058823529411764705,
+            "shares": 0.022069686220961452
+          },
+          {
+            "sid": "SUPI",
+            "weight": 0.058823529411764705,
+            "shares": 0.01571374030603336
+          },
+          {
+            "sid": "KANE",
+            "weight": 0.058823529411764705,
+            "shares": 0.04055606962537777
+          },
+          {
+            "sid": "EXID",
+            "weight": 0.058823529411764705,
+            "shares": 0.0782731357342224
+          },
+          {
+            "sid": "CROP",
+            "weight": 0.058823529411764705,
+            "shares": 0.08914632530507619
+          },
+          {
+            "sid": "FNXC",
+            "weight": 0.058823529411764705,
+            "shares": 0.029689214547027432
+          },
+          {
+            "sid": "RLXO",
+            "weight": 0.058823529411764705,
+            "shares": 0.029713254396863082
+          },
+          {
+            "sid": "KAJR",
+            "weight": 0.058823529411764705,
+            "shares": 0.035278322057453675
+          },
+          {
+            "sid": "ASGI",
+            "weight": 0.058823529411764705,
+            "shares": 0.04770766587653764
+          },
+          {
+            "sid": "GRPL",
+            "weight": 0.058823529411764705,
+            "shares": 0.07537900298438562
+          },
+          {
+            "sid": "NKML",
+            "weight": 0.058823529411764705,
+            "shares": 0.011747804452310388
+          },
+          {
+            "sid": "UFLX",
+            "weight": 0.058823529411764705,
+            "shares": 0.06353762962086966
+          }
+        ],
+        "flags": {
+          "featured": {
+            "value": true,
+            "rank": 1
+          },
+          "active": true,
+          "popular": {
+            "value": false,
+            "rank": 36
+          },
+          "highlighted": {
+            "value": true,
+            "rank": 3,
+            "label": "IN THE NEWS",
+            "description": "All four supporting bills passed in the Lok Sabha"
+          },
+          "locked": false
+        },
+        "info": {
+          "creator": {
+            "name": "Abhishek Jadon",
+            "userId": "5ae85e1daaa78b78960ca535"
+          },
+          "owner": {
+            "name": "Abhishek Jadon",
+            "userId": "5ae85e1daaa78b78960ca535"
+          },
+          "tags": [],
+          "tier": null,
+          "type": "Thematic",
+          "name": "The GST Opportunity",
+          "shortDescription": "Companies that can win big thanks to the introduction of GST",
+          "created": "2014-03-03T00:00:00.000Z",
+          "updated": "2018-05-29T00:00:00.000Z",
+          "nextUpdate": "2018-08-30T00:00:00.000Z",
+          "blogURL": "https://talk.smallcase.com/blog/the-gst-opportunity/",
+          "uploaded": "2016-04-04T00:00:00.000Z",
+          "rebalanceSchedule": "quarterly",
+          "publisher": "smallcaseHQ",
+          "lastRebalanced": "2018-05-29T00:00:00.000Z"
+        },
+        "__v": 35,
+        "stats": {
+          "returns": {
+            "daily": -0.9546994298410493,
+            "monthly": -0.019462906394462427,
+            "yearly": 0.015855296796741126
+          },
+          "indexValue": 337.9697469114232,
+          "unadjustedIndex": 337.9697469114232,
+          "lastCloseIndex": 337.8734717145961,
+          "divReturns": 3.46575907243765,
+          "minInvestAmount": "27,536",
+          "ratios": {
+            "pb": 3.8194019547199667,
+            "pe": 29.292960338974698,
+            "52wHigh": 7458.481659923159,
+            "52wLow": 310.11,
+            "divYield": 0.6822320827142767,
+            "divYieldDifferential": -0.7077679172857232,
+            "largeCapPercentage": 35.294117647058826,
+            "midCapPercentage": 35.294117647058826,
+            "pbDiscount": 11.029126590696702,
+            "peDiscount": 42.06091338009068,
+            "ema": 363.678725004742,
+            "lastCloseEma": 364.038112375685,
+            "momentumRank": -7.095618059541254,
+            "risk": 1.267846523505937,
+            "smallCapPercentage": 29.411764705882355
+          }
+        },
+        "version": 8,
+        "updates": [
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 2 stocks have been added and 4 stocks have been dropped. Apply update to view changes",
+            "date": "2018-05-29T00:00:00.000Z",
+            "version": 8
+          },
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 5 stocks have been added and 3 stocks have been dropped. Apply update to view changes",
+            "date": "2018-02-26T00:00:00.000Z",
+            "version": 7
+          },
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 7 stocks have been added and 6 stocks have been dropped. Apply update to view changes",
+            "date": "2017-11-30T00:00:00.000Z",
+            "version": 6
+          },
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 4 stocks have been added and 3 stocks have been dropped. Apply update to view changes",
+            "date": "2017-08-31T00:00:00.000Z",
+            "version": 5
+          },
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 10 stocks have been added and 9 stocks have been dropped. Apply update to view changes",
+            "date": "2017-05-31T00:00:00.000Z",
+            "version": 4
+          },
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 10 stocks have been added and 8 stocks have been dropped. Apply update to view changes",
+            "date": "2016-11-30T00:00:00.000Z",
+            "version": 3
+          },
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 4 stocks have been added and 5 stocks have been dropped. Apply update to view changes",
+            "date": "2016-09-05T14:01:18.535Z",
+            "version": 2
+          }
+        ],
+        "newsTag": "gst opportunity nm_4",
+        "keywords": [
+          "Eveready Industries India",
+          "Eveready Industries",
+          "Jyothy Laboratories",
+          "Hindustan Unilever",
+          "ITC",
+          "Asian Paints",
+          "Titan Company",
+          "Supreme Industries",
+          "Kansai Nerolac Paints",
+          "Kansai Nerolac",
+          "Exide Industries",
+          "Crompton Greaves Consumer Electricals",
+          "Crompton Greaves",
+          "Finolex Cables",
+          "Relaxo Footwears",
+          "Kajaria Ceramics",
+          "Asian Granito India",
+          "Asian Granito",
+          "Greenply Industries",
+          "Nilkamal",
+          "Uflex",
+          "GST",
+          "Goods and Services Tax"
+        ],
+        "publisher": "smallcaseHQ",
+        "enabledPublishers": [
+          "kite",
+          "axis"
+        ],
+        "brokerMeta": [
+          {
+            "broker": "kite",
+            "date": "2018-05-28T13:21:41.409Z",
+            "flags": {
+              "featured": {
+                "value": false,
+                "rank": 1
+              },
+              "highlighted": {
+                "value": false,
+                "rank": 3,
+                "label": "IN THE NEWS",
+                "description": "All four supporting bills passed in the Lok Sabha",
+                "tag": "NEWS"
+              },
+              "popular": {
+                "value": false,
+                "rank": 18
+              }
+            },
+            "status": "UNPUBLISHED",
+            "currentInvestors": 258
+          },
+          {
+            "broker": "axis",
+            "date": "2018-05-09T07:24:46.478Z",
+            "flags": {
+              "featured": {
+                "value": true,
+                "rank": 1
+              },
+              "highlighted": {},
+              "popular": {}
+            },
+            "status": "PUBLISHED",
+            "currentInvestors": 1
+          },
+          {
+            "broker": "edelweiss",
+            "date": "2018-05-15T06:09:48.646Z",
+            "flags": {},
+            "status": "UNPUBLISHED",
+            "currentInvestors": 0
+          },
+          {
+            "broker": "leprechaun",
+            "date": "2018-05-18T13:04:54.401Z",
+            "flags": {},
+            "status": "UNPUBLISHED",
+            "currentInvestors": 51
+          }
+        ],
+        "owner": {
+          "userId": "5ab4d4a1ce5b60323dac163c",
+          "name": "Manoj"
+        }
+      },
+      "SCNM_0011": {
+        "_id": "5704fb528cedad2432b3ca6c",
+        "rationale": "<p>India is an emerging economy with a growing middle class with 45 crore people expected to be added to this category in the next 15 years.</p>\r\n<ul>\r\n<li>Rise in middle class population leads to increased discretionary income, which is the portion of individual&rsquo;s income that is left after spending on necessities like food and rent</li>\r\n<li>This income gets spent on luxury items like skin care products, branded clothes, entertainment, etc </li>\r\n<li>Expected increase in discretionary spending over the next decade will directly affect categories like transportation, food &amp; beverage, education, entertainment &amp; leisure facilities</li>\r\n</ul>\r\n<p>This smallcase includes companies that are expected to benefit from the growth in the Indian middle class.</p><p>This is a low-cost version smallcase without high-priced stocks. Check the standard version <a href=\"/smallcase/SCNM_0010\">here</a>&nbsp;</p>",
+        "scid": "SCNM_0011",
+        "segments": [
+          {
+            "constituents": [
+              "TITN"
+            ],
+            "label": "Precious Metals, Jewellery & Watches"
+          },
+          {
+            "constituents": [
+              "MAHM"
+            ],
+            "label": "Automobiles"
+          },
+          {
+            "constituents": [
+              "TREN",
+              "FRTL"
+            ],
+            "label": "Department Stores"
+          },
+          {
+            "constituents": [
+              "CROP"
+            ],
+            "label": "Home Electronics"
+          },
+          {
+            "constituents": [
+              "ERDY",
+              "HLL"
+            ],
+            "label": "Household Products"
+          },
+          {
+            "constituents": [
+              "PRDA",
+              "HEFI"
+            ],
+            "label": "Food & Beverage"
+          },
+          {
+            "constituents": [
+              "INOL"
+            ],
+            "label": "Theatres"
+          },
+          {
+            "constituents": [
+              "DABU",
+              "MRCO"
+            ],
+            "label": "Personal Products"
+          },
+          {
+            "constituents": [
+              "CODE"
+            ],
+            "label": "Restaurants"
+          },
+          {
+            "constituents": [
+              "ASPN"
+            ],
+            "label": "Paints"
+          }
+        ],
+        "constituents": [
+          {
+            "sid": "TITN",
+            "weight": 0.075,
+            "shares": 0.021479618296319045
+          },
+          {
+            "sid": "MAHM",
+            "weight": 0.06499999999999999,
+            "shares": 0.019562228640489433
+          },
+          {
+            "sid": "TREN",
+            "weight": 0.06499999999999999,
+            "shares": 0.05117700127577312
+          },
+          {
+            "sid": "FRTL",
+            "weight": 0.06499999999999999,
+            "shares": 0.028650335702433406
+          },
+          {
+            "sid": "CROP",
+            "weight": 0.06499999999999999,
+            "shares": 0.07519447647696965
+          },
+          {
+            "sid": "ERDY",
+            "weight": 0.06499999999999999,
+            "shares": 0.06607424597083614
+          },
+          {
+            "sid": "HLL",
+            "weight": 0.115,
+            "shares": 0.019151419064268527
+          },
+          {
+            "sid": "PRDA",
+            "weight": 0.06499999999999999,
+            "shares": 0.09650810359629212
+          },
+          {
+            "sid": "INOL",
+            "weight": 0.06499999999999999,
+            "shares": 0.06278454536008088
+          },
+          {
+            "sid": "HEFI",
+            "weight": 0.06499999999999999,
+            "shares": 0.023910153756160013
+          },
+          {
+            "sid": "DABU",
+            "weight": 0.06499999999999999,
+            "shares": 0.044155179547103955
+          },
+          {
+            "sid": "MRCO",
+            "weight": 0.06499999999999999,
+            "shares": 0.05310052861630046
+          },
+          {
+            "sid": "CODE",
+            "weight": 0.06499999999999999,
+            "shares": 0.0559081427730244
+          },
+          {
+            "sid": "ASPN",
+            "weight": 0.095,
+            "shares": 0.019146805576898376
+          }
+        ],
+        "info": {
+          "creator": {
+            "name": "Abhishek Jadon",
+            "userId": "5ae85e1daaa78b78960ca535"
+          },
+          "owner": {
+            "name": "Abhishek Jadon",
+            "userId": "5ae85e1daaa78b78960ca535"
+          },
+          "tags": [],
+          "tier": null,
+          "type": "Thematic",
+          "name": "The Great Indian Middle Class - Low-Cost Version",
+          "shortDescription": "Consumer companies expected to benefit from India's growing middle class",
+          "created": "2014-03-03T00:00:00.000Z",
+          "updated": "2018-05-29T00:00:00.000Z",
+          "nextUpdate": "2018-08-30T00:00:00.000Z",
+          "blogURL": null,
+          "uploaded": "2016-04-04T00:00:00.000Z",
+          "rebalanceSchedule": "quarterly",
+          "publisher": "smallcaseHQ",
+          "lastRebalanced": "2018-05-29T00:00:00.000Z"
+        },
+        "__v": 32,
+        "stats": {
+          "returns": {
+            "daily": 0.0058329661896959544,
+            "monthly": -0.0262617979129514,
+            "yearly": 0.22524943862592117
+          },
+          "indexValue": 258.0497842690053,
+          "unadjustedIndex": 258.0497842690053,
+          "lastCloseIndex": 256.5533174425088,
+          "divReturns": 3.46607426124607,
+          "minInvestAmount": "13,777.95",
+          "ratios": {
+            "pb": 5.966035890810123,
+            "pe": 42.65677385143726,
+            "52wHigh": 270.43,
+            "52wLow": 200.09,
+            "divYield": 0.4803617285249458,
+            "divYieldDifferential": -0.9196382714750542,
+            "largeCapPercentage": 50,
+            "midCapPercentage": 21.428571428571427,
+            "pbDiscount": 73.43127589564311,
+            "peDiscount": 110.13189089377957,
+            "ema": 244.78865576618588,
+            "lastCloseEma": 244.83289486636036,
+            "momentumRank": 5.417378702175646,
+            "risk": 1.4671624737363618,
+            "smallCapPercentage": 28.57142857142857
+          }
+        },
+        "flags": {
+          "featured": {
+            "value": false
+          },
+          "active": true,
+          "popular": {
+            "value": false,
+            "rank": 35
+          },
+          "locked": false
+        },
+        "version": 9,
+        "updates": [
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 6 stocks have been added and 6 stocks have been dropped. Apply update to view changes",
+            "date": "2018-05-29T00:00:00.000Z",
+            "version": 9
+          },
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 6 stocks have been added and 3 stocks have been dropped. Apply update to view changes",
+            "date": "2018-02-26T00:00:00.000Z",
+            "version": 8
+          },
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 8 stocks have been added and 6 stocks have been dropped. Apply update to view changes",
+            "date": "2017-11-30T00:00:00.000Z",
+            "version": 7
+          },
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 3 stocks have been added and 5 stocks have been dropped. Apply update to view changes",
+            "date": "2017-08-31T00:00:00.000Z",
+            "version": 6
+          },
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 6 stocks have been added and 5 stocks have been dropped. Apply update to view changes",
+            "date": "2017-05-31T00:00:00.000Z",
+            "version": 5
+          },
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 1 stock has been added and 2 stocks have been dropped. Apply update to view changes",
+            "date": "2017-02-28T00:00:00.000Z",
+            "version": 4
+          },
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 5 stocks have been added and 5 stocks have been dropped. Apply update to view changes",
+            "date": "2016-11-30T00:00:00.000Z",
+            "version": 3
+          },
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 8 stocks have been added and 5 stocks have been dropped. Apply update to view changes",
+            "date": "2016-09-05T14:01:18.661Z",
+            "version": 2
+          }
+        ],
+        "newsTag": "gimc nm_11",
+        "keywords": [
+          "InterGlobe Aviation",
+          "InterGlobe",
+          "V I P Industries",
+          "VIP Industries",
+          "Titan Company",
+          "Mahindra and Mahindra",
+          "Bajaj Electricals",
+          "Crompton Greaves Consumer Electricals",
+          "Crompton Greaves",
+          "Hindustan Unilever",
+          "Eveready Industries India",
+          "Eveready Industries",
+          "Infibeam Incorporation",
+          "Infibeam",
+          "INOX Leisure",
+          "Prabhat Dairy",
+          "Godrej Consumer Products",
+          "Godrej Consumer",
+          "Emami",
+          "Asian Paints",
+          "Middle class demand",
+          "consumer stocks",
+          "Rising middle class",
+          "rising consumption"
+        ],
+        "publisher": "smallcaseHQ",
+        "enabledPublishers": [
+          "kite",
+          "axis"
+        ],
+        "brokerMeta": [
+          {
+            "broker": "kite",
+            "date": "2018-05-31T07:37:03.117Z",
+            "flags": {
+              "featured": {
+                "value": false
+              },
+              "popular": {
+                "value": false,
+                "rank": 25
+              }
+            },
+            "status": "PUBLISHED",
+            "currentInvestors": 165
+          },
+          {
+            "broker": "axis",
+            "date": "2018-05-09T07:25:27.898Z",
+            "flags": {
+              "featured": {},
+              "highlighted": {},
+              "popular": {}
+            },
+            "status": "PUBLISHED",
+            "currentInvestors": 0
+          },
+          {
+            "broker": "edelweiss",
+            "date": "2018-05-15T06:09:48.646Z",
+            "flags": {},
+            "status": "UNPUBLISHED",
+            "currentInvestors": 0
+          },
+          {
+            "broker": "leprechaun",
+            "date": "2018-05-18T13:04:54.401Z",
+            "flags": {},
+            "status": "UNPUBLISHED",
+            "currentInvestors": 5
+          }
+        ],
+        "owner": {
+          "userId": "5ab4d4a1ce5b60323dac163c",
+          "name": "Manoj"
+        }
+      },
+      "SCNM_0003": {
+        "_id": "5704fb528cedad2432b3ca64",
+        "rationale": "<p>The Indian Media &amp; Entertainment industry is expected to grow at a compounded annual growth rate of 13.9% till 2021, while the global average for this period is 4.2%.</p>\r\n<ul>\r\n<li>Expanding middle class, increasing urbanization, rising income levels and changing lifestyle are all increasing demand for entertainment</li>\r\n<li>A technologically-savvy young user base, increasing mobile penetration, growing online streaming and expansion of 3G/4G network will hike consumption up</li>\r\n<li>Increasing advertising revenue is also fuelling growth. Advertising revenue is expected to double from Rs 41,000 crore to Rs 80,000 crore in the next five years</li>\r\n<li>Government is also providing necessary support through policies like increasing FDI limits and the Cable Television Network Amendment Act</li>\r\n</ul>\r\n<p>This smallcase has companies that will benefit from the Indian media and entertainment industry being on a high-growth trajectory.</p>",
+        "scid": "SCNM_0003",
+        "segments": [
+          {
+            "constituents": [
+              "SUTV",
+              "TVTO",
+              "ZEE"
+            ],
+            "label": "TV Channels & Broadcasters"
+          },
+          {
+            "constituents": [
+              "DSTV"
+            ],
+            "label": "Cable & D2H"
+          },
+          {
+            "constituents": [
+              "SARE",
+              "INOL",
+              "PVRL"
+            ],
+            "label": "Movies & Entertainment"
+          },
+          {
+            "constituents": [
+              "JAGP"
+            ],
+            "label": "Radio & Print"
+          }
+        ],
+        "constituents": [
+          {
+            "sid": "SUTV",
+            "weight": 0.125,
+            "shares": 0.029505670212469342
+          },
+          {
+            "sid": "TVTO",
+            "weight": 0.125,
+            "shares": 0.06187405182059479
+          },
+          {
+            "sid": "ZEE",
+            "weight": 0.125,
+            "shares": 0.049777913392721466
+          },
+          {
+            "sid": "DSTV",
+            "weight": 0.125,
+            "shares": 0.37743171610562826
+          },
+          {
+            "sid": "SARE",
+            "weight": 0.125,
+            "shares": 0.034057124957048275
+          },
+          {
+            "sid": "INOL",
+            "weight": 0.125,
+            "shares": 0.10230953764987527
+          },
+          {
+            "sid": "PVRL",
+            "weight": 0.125,
+            "shares": 0.020650015731549558
+          },
+          {
+            "sid": "JAGP",
+            "weight": 0.125,
+            "shares": 0.16833271319031357
+          }
+        ],
+        "info": {
+          "creator": {
+            "name": "Abhishek Jadon",
+            "userId": "5ae85e1daaa78b78960ca535"
+          },
+          "owner": {
+            "name": "Abhishek Jadon",
+            "userId": "5ae85e1daaa78b78960ca535"
+          },
+          "tags": [],
+          "tier": null,
+          "type": "Thematic",
+          "name": "It's Showtime",
+          "shortDescription": "Stocks from India's media industry, the fastest growing in the world",
+          "created": "2014-03-03T00:00:00.000Z",
+          "updated": "2018-05-29T00:00:00.000Z",
+          "nextUpdate": "2018-08-30T00:00:00.000Z",
+          "blogURL": "https://talk.smallcase.com/blog/its-showtime/",
+          "uploaded": "2016-04-04T00:00:00.000Z",
+          "rebalanceSchedule": "quarterly",
+          "publisher": "smallcaseHQ",
+          "lastRebalanced": "2018-05-29T00:00:00.000Z"
+        },
+        "__v": 32,
+        "stats": {
+          "returns": {
+            "daily": 0.007113428178703027,
+            "monthly": -0.05722810248409656,
+            "yearly": 0.05155962767338686
+          },
+          "indexValue": 219.23966677362444,
+          "unadjustedIndex": 219.23966677362444,
+          "lastCloseIndex": 217.69113650892794,
+          "divReturns": 2.20342526204375,
+          "minInvestAmount": "10,231.65",
+          "ratios": {
+            "pb": 3.7070141846738127,
+            "pe": 32.9222893886881,
+            "52wHigh": 257.79,
+            "52wLow": 186.88,
+            "divYield": 0.5265914763677387,
+            "divYieldDifferential": -0.8734085236322612,
+            "largeCapPercentage": 25,
+            "midCapPercentage": 37.5,
+            "pbDiscount": 7.76204025214573,
+            "peDiscount": 62.17876546151773,
+            "ema": 230.678268941376,
+            "lastCloseEma": 230.789042965211,
+            "momentumRank": -4.958682159461903,
+            "risk": 1.6627874829455918,
+            "smallCapPercentage": 37.5
+          }
+        },
+        "flags": {
+          "highlighted": {
+            "value": false,
+            "rank": 1,
+            "label": "BUY RATED",
+            "description": "10/12 stocks rated buy/strong buy by analysts"
+          },
+          "featured": {
+            "value": false
+          },
+          "active": true,
+          "popular": {
+            "value": false,
+            "rank": 53
+          },
+          "locked": false
+        },
+        "version": 9,
+        "updates": [
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 2 stocks have been added and 3 stocks have been dropped. Apply update to view changes",
+            "date": "2018-05-29T00:00:00.000Z",
+            "version": 9
+          },
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 2 stocks have been added and 2 stocks have been dropped. Apply update to view changes",
+            "date": "2018-02-26T00:00:00.000Z",
+            "version": 8
+          },
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 2 stocks have been added and 1 stock has been dropped. Apply update to view changes",
+            "date": "2017-11-30T00:00:00.000Z",
+            "version": 7
+          },
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 3 stocks have been dropped. Apply update to view changes",
+            "date": "2017-08-31T00:00:00.000Z",
+            "version": 6
+          },
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 1 stock has been added and 2 stocks have been dropped. Apply update to view changes",
+            "date": "2017-05-31T00:00:00.000Z",
+            "version": 5
+          },
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 1 stock has been added and 1 stock has been dropped. Apply update to view changes",
+            "date": "2017-02-28T00:00:00.000Z",
+            "version": 4
+          },
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 1 stock has been added and 2 stocks have been dropped. Apply update to view changes",
+            "date": "2016-11-30T00:00:00.000Z",
+            "version": 3
+          },
+          {
+            "label": "Quarterly Update: Stocks Change",
+            "rationale": "To continue reflecting the underlying theme of this smallcase with the right stocks, 1 stock has been added and 4 stocks have been dropped. Apply update to view changes",
+            "date": "2016-09-05T14:01:18.516Z",
+            "version": 2
+          }
+        ],
+        "newsTag": "it's showtime nm_3",
+        "keywords": [
+          "Sun TV Network",
+          "TV Today Network",
+          "Zee Entertainment Enterprises",
+          "Zee Entertainment",
+          "TV18 Broadcast",
+          "GTPL Hathway",
+          "GTPL",
+          "INOX Leisure",
+          "PVR",
+          "DB Corp",
+          "Jagran Prakashan",
+          "Media stocks"
+        ],
+        "publisher": "smallcaseHQ",
+        "enabledPublishers": [
+          "kite",
+          "axis"
+        ],
+        "brokerMeta": [
+          {
+            "broker": "kite",
+            "date": "2018-05-28T14:08:04.198Z",
+            "flags": {
+              "featured": {
+                "value": false
+              },
+              "highlighted": {
+                "value": false,
+                "rank": 1,
+                "label": "BUY RATED",
+                "description": "10/12 stocks rated buy/strong buy by analysts"
+              },
+              "popular": {
+                "value": false,
+                "rank": 17
+              }
+            },
+            "status": "PUBLISHED",
+            "currentInvestors": 45
+          },
+          {
+            "broker": "axis",
+            "date": "2018-05-09T07:24:43.163Z",
+            "flags": {
+              "featured": {
+                "value": true,
+                "rank": 3
+              },
+              "highlighted": {},
+              "popular": {}
+            },
+            "status": "PUBLISHED",
+            "currentInvestors": 60
+          },
+          {
+            "broker": "edelweiss",
+            "date": "2018-05-15T06:09:48.646Z",
+            "flags": {},
+            "status": "UNPUBLISHED",
+            "currentInvestors": 0
+          },
+          {
+            "broker": "leprechaun",
+            "date": "2018-05-18T13:04:54.401Z",
+            "flags": {},
+            "status": "UNPUBLISHED",
+            "currentInvestors": 9
+          }
+        ],
+        "owner": {
+          "userId": "5ab4d4a1ce5b60323dac163c",
+          "name": "Manoj"
+        }
+      }
+    },
+    "kite": true,
+    "staticAssets": "https://assets.smallcase.com/images/mailer-assets/kite",
+    "ctaLinkRootURL": "http://zerodha-dev.smallcase.com/smallcase/"
+  },
+  "jobName": "marketOpenReminder",
+  "server": {
+    "port": "8108",
+    "mailerPort": "8109",
+    "env": "development",
+    "local": "https://www.smallcase.com",
+    "production": "https://www.smallcase.com",
+    "development": "http://dev.smallcase.com",
+    "gaTrackingID": {
+      "smallcase": "",
+      "screener": ""
+    },
+    "auth": {
+      "local": "https://login.smallcase.com",
+      "development": "https://login.smallcase.com",
+      "production": "https://login.smallcase.com"
+    },
+    "axis": {
+      "local": "http://axis.smallcase.com",
+      "development": "https://axis.smallcase.com/brokerLogin?reqToken=Z3YQ7GMNMRGUUVSSWVJP&brokerParams=3%2FHxgratzYs%2B0CSH0uVmCrO5yA51MbTdeAZ6m9a%2Bb4CDquL%2BKrE9MlsqovMuKlewnTnI5G%2Fv8hSjY5auPkufrQ1ObPcI8kUzQij0m2hJqJ8%3D&path=",
+      "production": "https://simplehai.axisdirect.in/app/index.php/smallcase"
+    },
+    "kite": {
+      "local": "http://smallcase.zerodha.com",
+      "production": "http://smallcase.zerodha.com",
+      "development": "http://zerodha-dev.smallcase.com"
+    },
+    "staticAssets": "https://assets.smallcase.com/images/mailer-assets/"
+  }
+}
