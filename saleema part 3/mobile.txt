@@ -1,0 +1,5 @@
+just try to extract it with zip extractor like 7zip or others. if it is hybrid, it will have WWW folder with .html file.. www folder can also be named as app or public. If it is .jar then it is native
+
+
+
+if you can't realize this from UI, for web based hybrid apps you can extract .apk file and look for .html .js files under assets folder if there are some .html .js files then you have a web based hybrid application

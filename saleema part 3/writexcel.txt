@@ -1,0 +1,42 @@
+String src = "D:\\Saleema\\KotakSecurities\\src\\uticash.xls";
+		FileInputStream If = new FileInputStream(src);
+		HSSFWorkbook wbIf = new HSSFWorkbook(If);
+		//HSSFSheet sIf = wbIf.getSheet("Sheet2");
+		HSSFSheet sIf = wbIf.createSheet("Sheet2");
+		//HSSFRow row = sIf.getRow(6);
+		HSSFRow row = sIf.createRow(3);
+		
+		Actions act = new Actions(w);
+		act.moveToElement(w.findElement(By.linkText("Watchlist"))).click().perform();	
+		WebElement Sublink = w.findElement(By.linkText("My Watchlists"));
+		Sublink.click();
+		//w.findElement(By.xpath("//div[@id='container']//a[contains(text(), '"+watchlistname+"')]")).click();
+
+		w.findElement(By.xpath("//*[@id='tabbed_area']/td/ul/li[3]")).click();
+		w.findElement(By.partialLinkText("ADD")).click();
+		String val = "acc";
+		w.findElement(By.id("search_list")).sendKeys(val);
+		w.findElement(By.id("me")).click();
+		Select ME = new Select(w.findElement(By.id("me")));
+		ME.selectByValue("NN");
+		w.findElement(By.partialLinkText("SUBMIT")).click();
+		
+		//If.close();
+		FileOutputStream Of = new FileOutputStream(src);
+		HSSFWorkbook wbOf = new HSSFWorkbook();
+		//HSSFSheet sOf = wbIf.getSheet("Sheet1");
+				
+		w.findElement(By.xpath("//*[@id='container']/div/form/table[2]/tbody/tr[2]/td[1]/input")).click();
+		String getvalue = w.findElement(By.xpath("//*[@id='container']/div/form/table[2]/tbody/tr[2]/td[1]/input")).getAttribute("value");
+		System.out.println("getvalue " +getvalue);
+		
+		//w.findElement(By.partialLinkText("SUBMIT")).click();
+		//log.log(LogStatus.INFO, "Scrip "+nse.toUpperCase()+ " got added for NSE");
+		//row.createCell(2).setCellValue(getvalue);
+		Cell cell = row.createCell(2);
+		System.out.println("cell "+cell);
+		cell.setCellValue(getvalue);
+		
+		wbIf.write(Of);
+		Of.close();
+		System.out.println("excel completed");	

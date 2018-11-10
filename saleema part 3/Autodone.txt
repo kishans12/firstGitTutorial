@@ -1,0 +1,20 @@
+Web App
+Place/Modify/Cancel normal/AMO cash/fno/currency orders to check utilisation/total margin
+Place/Modify/Cancel TSLO cash/fno/currency orders to check utilisation/total margin
+Place/Modify/Cancel GTC cash orders to check utilisation/total margin
+Place/Modify/Cancel normal/AMO cash/fno/currency orders and check max utilisation from multiple scrips
+Upload stock and check utilisation of more than available stock
+place qty to market depth and check supermultiple at LTP
+check all links working
+
+
+Window App dealer
+Random check for testing any exception error in exe
+place/modify/cancel Utilisation with total margin check
+M2M check done for cash/fno/currency
+cash and fno load check
+mock pmc/pt normal/sm/tslo orders
+
+
+Window App keatpro
+Random check for testing any exception error in exe

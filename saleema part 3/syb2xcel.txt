@@ -1,0 +1,35 @@
+Sub GetData()
+Const adOpenForwardOnly As Long = 0
+Const adLockReadOnly As Long = 1
+Const adCmdText As Long = 1
+Dim oRS As Object
+Dim sConnect As String
+Dim sSQL As String
+Dim ary
+
+sConnect = "Provider=Sybase.ASEOLEDBProvider;" & _
+"Srvr=myASEServer,5000;" & _
+"Catalog=myDBName;" & _
+"User Id=myUser;" & _
+"Password=myPassword"
+
+'this assumes Sybase Adaptive Server 12.5
+'5000 is the port number
+'change the DBName, UserName & Password to suit
+
+sSQL = "SELECT * From Contacts"
+Set oRS = CreateObject("ADODB.Recordset")
+oRS.Open sSQL, sConnect, adOpenForwardOnly, _
+adLockReadOnly, adCmdText
+
+' Check to make sure we received data.
+If Not oRS.EOF Then
+ary = oRS.getrows
+MsgBox ary(0, 0) & " " & ary(1, 0) & ", " & ary(2, 0)
+Else
+MsgBox "No records returned.", vbCritical
+End If
+
+oRS.Close
+Set oRS = Nothing
+End Sub

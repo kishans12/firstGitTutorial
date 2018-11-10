@@ -1,0 +1,21 @@
+https://github.com/2gis/Winium.Desktop/wiki/Supported-Commands
+
+https://jar-download.com/java-documentation-javadoc.php?a=winium-webdriver&g=com.github.2gis.winium&v=0.1.0-1
+
+http://developers-club.com/posts/263347/
+
+
+But you can start simulator by hand, it executable location is 
+"C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Simulator
+\11.0\Microsoft.Windows.Simulator.exe" - just start it, and start 
+Winium.Driver in it.
+
+You need to start the driver on the remote machine and specify the IP 
+of the remote machine
+
+driver = webdriver.Remote(
+command_executor='http://IP:9999',
+desired_capabilities={
+"debugConnectToRunningApp": 'false',
+"app": r"C:/windows/system32/calc.exe"
+})

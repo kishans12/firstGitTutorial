@@ -1,0 +1,37 @@
+Master automation skills with Selenium, Java, TestNG, Junit, Appium 
+and Framework designing.
+Should have good scripting experience in Aut testing.
+Must have exp on Web based/Web app/mobile app testing.
+Exp with aut tools like selenium,appium.
+
+Aut test designers respon for:-
+Analysis of manual tc for auto
+writing functn wherever reqd
+auto of manual tc
+test suite exec
+
+Exp in testing web & windows based app
+Should be well versed in auto testing
+Mand exp in sel webdriver java
+Good knowledge of sdlc and stlc methodology.
+
+1-3 yrs of work exp in the field of s/w testing and test auto.
+good exp in web apps ui and api.
+knolwedge of java programming that could be used in auto fraemwork.
+exp in writing auto tools/framwrk(sel/testng/junit..)
+
+ct
+experience in:
+sel webdriver usind java
+exc programming skills on java
+strong knowledge of testing web base apps and mobile
+windows added adv
+exp in designing and developing testing frameworks.
+exp of working on junit,testng...
+advanced knowledge of manual and auto testing best practices.
+excc written and verbal comms skills.
+
+mobile auto testers
+exp in mobile auto with appium and webdriver and java programming, jenkins,testng,maven and franework development
+Self directed ability to detect and solve problems on own
+strong knowledge of the sellenium webdriver,appium and java
