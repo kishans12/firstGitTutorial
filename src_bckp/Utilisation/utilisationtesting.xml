@@ -1,0 +1,29 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
+
+<suite thread-count="1" verbose="1" name="Utilizations" annotations="JDK" parallel="tests">
+         
+  <test name="NSEUtilisation">
+	 <classes>
+	   <class name="Utilisation.NSEUtilisation"/>
+	 </classes>
+   </test>
+   
+  <test name="BSEUtilisation">
+     <classes>
+       <class name="Utilisation.BSEUtilisation"></class>
+     </classes>
+   </test>
+  
+  <test name="DerivativeUtilisation">
+     <classes>
+       <class name="Utilisation.DerivativeUtilisation"/>
+     </classes>
+   </test>
+   
+   <test name="CurrencyUtilisation">
+     <classes>
+       <class name="Utilisation.CurrencyUtilisation"></class>
+     </classes>
+   </test>  
+      
+</suite>

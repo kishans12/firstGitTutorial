@@ -1,0 +1,40 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
+
+<suite thread-count="1" verbose="1" name="Utilizations" annotations="JDK" parallel="tests">
+         
+  <test name="TSLONSEUtilisation">
+	 <classes>
+	   <class name="TSLO.NSEUtilisation"/>
+	 </classes>
+   </test>
+   
+  <test name="TSLOBSEUtilisation">
+     <classes>
+       <class name="TSLO.BSEUtilisation"></class>
+     </classes>
+   </test>
+      
+      <test name="TSLODerivativeUtilisation">
+     <classes>
+       <class name="TSLO.DerivativeUtilisation"></class>
+     </classes>
+   </test>
+   
+   <test name="TSLOCurrencyUtilisation">
+     <classes>
+       <class name="TSLO.CurrencyUtilisation"></class>
+     </classes>
+   </test>
+   
+   <test name="GTCPlaceModCan">
+     <classes>
+       <class name="GTC.PlaceModCan"></class>
+     </classes>
+   </test>  
+    
+    <test name="GTCUtilization">
+     <classes>
+       <class name="GTC.Utilization"></class>
+     </classes>
+   </test>  
+</suite>

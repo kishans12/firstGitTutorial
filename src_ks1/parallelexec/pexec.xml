@@ -1,0 +1,10 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
+<suite name="Project1" thread-count="2" parallel="methods" >
+<test name="PlaceModCanutil">
+<classes>
+<class name="parallelexec.PlaceModCanrndtest">
+</class>
+</classes>
+</test>
+</suite>

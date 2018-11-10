@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
+
+<suite thread-count="1" verbose="1" name="Suite" annotations="JDK" parallel="none">
+         
+     
+   <test name="add market depth">
+     <classes>
+       <class name="com.TestCases.TC4Addqty2marketdepth"/>
+     </classes>
+   </test>
+   
+   <test name="supermultiple">
+     <classes>
+       <class name="com.TestCases.accc"/>
+     </classes>
+   </test>
+   
+</suite>

@@ -1,0 +1,29 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
+
+<suite thread-count="1" verbose="1" name="Suite" annotations="JDK" parallel="tests">
+      
+      <test name="utilisation">
+     <classes>
+       <class name="com.TestCases.TC1Utilisation"/>
+     </classes>
+   </test>
+   
+   <test name="compare max utilisation">
+     <classes>
+       <class name="com.TestCases.TC2Comparemaxutil"/>
+     </classes>
+   </test>   
+     
+   <test name="add market depth">
+     <classes>
+       <class name="com.TestCases.TC4Addqty2marketdepth"/>
+     </classes>
+   </test>
+   
+   <test name="supermultiple">
+     <classes>
+       <class name="com.TestCases.TC5SMLTP"/>
+     </classes>
+   </test>
+   
+</suite>
