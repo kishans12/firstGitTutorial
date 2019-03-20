@@ -1,0 +1,63 @@
+1. And condition (&)
+black&dog
+Valid Input: black dog
+Valid Input: dog black
+
+2. And-order condition (+)
+black+dog
+Valid Input: black dog
+Invalid Input: dog black
+
+3. Or condition (\)
+cat/dog
+Valid Input (unrecognised word limit = 0): cat
+Valid Input (unrecognised word limit = 0): dog
+Valid Input (unrecognised word limit = 1): dog cat
+Invalid Input (unrecognised word limit = 0): dog cat
+
+4. Macro condition (@MACRO)
+@COLOURS = red/blue/green/pink
+@COLOURS
+Valid Input (unrecognised word limit = 0): pink
+Valid Input (unrecognised word limit = 0): green
+Valid Input (unrecognised word limit = 2): red blue green
+Invalid Input (unrecognised word limit = 1): red blue green
+
+5. Must Follow Answer Condition (#ANS_NUMBER)
+#231
+This implies that current condition should match only if the previous answer given was answer number 231.
+
+6. TOPIC Condition (Don't remember the symbol)
+#WEATHER
+This implied that current condition should match only if WEATHER topic is present in the Engine's active topic list for this user.
+
+7. {Dont remember condition name} condition (| - Pipe operator)
+new|york
+Valid input: new york
+Valid input: newyork
+
+8. Exact Condition (:E)
+CreativeVirtual:E
+Valid input: CreativeVirtual
+Invalid input: Creativevirtual
+
+9. Maybe Condition (~)
+Maybe Condition is used along with the unreccognised word limit. The word maybe present or not.
+Simple example: it+is+~very+hot
+Valid input: it is very hot
+Valid input: it is hot
+
+10. Not Condition (!)
+this+is+very+nice+!bad (unreccognised word limit: 1)
+Valid input: this is very nice
+Valid input: this is very nice car
+Invalid input: this is very nice car bad
+
+11. Wildcard conditions (*)
+BeforeWord - *age
+AfterWord - age*
+Wildcard  - *
+MiddleWord - test*test
+
+
+**  Phase 2 documents has Condtional Operators  (   Search Operators )    **
